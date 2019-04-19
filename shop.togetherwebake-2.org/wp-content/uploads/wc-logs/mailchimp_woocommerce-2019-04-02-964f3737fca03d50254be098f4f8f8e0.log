@@ -1,0 +1,26 @@
+2019-04-02T13:30:04+00:00 NOTICE member.sync :: Updated Member edlidi@aol.com ( merge tags only ) :: Array
+(
+    [merge_vars] => Array
+        (
+            [FNAME] => Edward
+            [LNAME] => Fickus
+        )
+
+)
+
+2019-04-02T13:33:41+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1796 :: email: edlidi@aol.com
+2019-04-02T13:33:41+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1796 :: email: edlidi@aol.com
+2019-04-02T13:40:05+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1797 :: email: sreney@gmail.com
+2019-04-02T13:40:07+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1797 :: email: sreney@gmail.com
+2019-04-02T13:44:07+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1799 :: email: allik3737@yahoo.com
+2019-04-02T13:44:08+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1799 :: email: allik3737@yahoo.com
+2019-04-02T14:06:52+00:00 NOTICE member.sync :: Skipped Member Sync For davenportdonna3@gmail.com because the current status is unsubscribed :: Array
+(
+    [FNAME] => Donna
+    [LNAME] => Davenport
+)
+
+2019-04-02T14:08:11+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1795 :: email: davenportdonna3@gmail.com
+2019-04-02T14:08:12+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1795 :: email: davenportdonna3@gmail.com
+2019-04-02T14:11:14+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1801 :: email: pagnone@unfcu.com
+2019-04-02T14:11:15+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1801 :: email: pagnone@unfcu.com

@@ -1,0 +1,13 @@
+#leftsidebar {width:40%;margin-right:2.5em;}
+#rightsidebar {width:40%;margin-left:2.5em}
+
+@media only screen and (max-width: 480px){
+    #leftsidebar{width:100%;}
+    #rightsidebar{width:100%;}
+}
+@media only screen and (min-width:481px) and (max-width:840px){
+    #leftsidebar{width:100%;}
+    #rightsidebar{width:100%;}
+}
+@media only screen and (min-width: 1280px){}
+@media(-webkit-min-device-pixel-ratio: 2) {}

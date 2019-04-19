@@ -1,0 +1,7 @@
+/* IE for woocommerce */
+
+img { -ms-interpolation-mode: bicubic; }
+p#delivery_date_field.form-row-wide label {display:none;}
+#main-content .woocommerce-order #wc-od {display:none;}
+
+.required {border:0;color:red;font-weight:700;text-decoration: none;}

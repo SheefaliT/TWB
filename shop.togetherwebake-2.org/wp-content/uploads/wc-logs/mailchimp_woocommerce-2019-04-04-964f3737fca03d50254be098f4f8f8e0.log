@@ -1,0 +1,5 @@
+2019-04-04T11:52:52+00:00 NOTICE abandoned_cart.success :: email: navalbrat2@aol.com :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=fde02bc8064dc74c164285e946068fa0
+2019-04-04T11:54:13+00:00 NOTICE abandoned_cart.success :: email: navalbrat2@aol.com :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=fde02bc8064dc74c164285e946068fa0
+2019-04-04T11:56:32+00:00 NOTICE order_submit.success :: addStoreOrder :: #1803 :: email: Navalbrat2@aol.com :: landing site https://shop.togetherwebake.org/ :: abandoned cart deleted [fde02bc8064dc74c164285e946068fa0]
+2019-04-04T11:56:33+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1803 :: email: Navalbrat2@aol.com
+2019-04-04T11:56:34+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1803 :: email: Navalbrat2@aol.com

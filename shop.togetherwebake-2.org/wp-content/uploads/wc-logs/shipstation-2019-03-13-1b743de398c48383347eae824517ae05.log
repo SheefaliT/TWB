@@ -1,0 +1,26 @@
+03-13-2019 @ 00:57:55 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=export&start_date=03%2F12%2F2019+10%3A43&end_date=03%2F13%2F2019+21%3A57&page=1
+03-13-2019 @ 00:57:56 - Exported 6 orders
+03-13-2019 @ 05:00:46 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=export&start_date=03%2F12%2F2019+16%3A57&end_date=03%2F14%2F2019+02%3A00&page=1
+03-13-2019 @ 05:00:49 - Exported 6 orders
+03-13-2019 @ 09:25:28 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=export&start_date=03%2F12%2F2019+21%3A00&end_date=03%2F14%2F2019+06%3A25&page=1
+03-13-2019 @ 09:25:30 - Exported 6 orders
+03-13-2019 @ 09:53:15 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=shipnotify&order_number=1776&carrier=USPS&service=USPS+Priority+Mail&tracking_number=9405511699000525746622&capture=true
+03-13-2019 @ 09:53:15 - Missing ShipNotify XML input.
+03-13-2019 @ 09:53:15 - $_REQUEST: Array
+(
+    [wc-api] => wc_shipstation
+    [auth_key] => WCSS-28dd88779c0f5e8cb51637529deab2dd
+    [action] => shipnotify
+    [order_number] => 1776
+    [carrier] => USPS
+    [service] => USPS Priority Mail
+    [tracking_number] => 9405511699000525746622
+    [capture] => true
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+03-13-2019 @ 09:53:15 - No items found - shipping entire order 1776.
+03-13-2019 @ 09:53:16 - Updated order 1776 to status wc-completed
+03-13-2019 @ 18:59:16 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=export&start_date=03%2F13%2F2019+01%3A25&end_date=03%2F14%2F2019+15%3A59&page=1
+03-13-2019 @ 18:59:16 - Exported 1 orders

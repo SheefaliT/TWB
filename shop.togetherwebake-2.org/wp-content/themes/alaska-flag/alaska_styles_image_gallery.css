@@ -1,0 +1,60 @@
+/* cssplay
+html part
+<div id="logo">
+		<img id="blank" src="https://www.chugiak.biz/wp-content/uploads/2016/09/red_white_blue_flowers.jpg" alt=""></img>
+		<img id="img_01" src="https://www.chugiak.biz/wp-content/uploads/2016/09/red_white_blue_flowers.jpg" alt=""></img>
+		<img id="img_02" src="https://www.chugiak.biz/wp-content/uploads/2016/10/treewinter.jpg" alt=""></img>
+		<img id="img_03" src="https://www.chugiak.biz/wp-content/uploads/2016/10/mousecalves.jpg" alt=""></img>
+		<img id="img_04" src="https://www.chugiak.biz/wp-content/uploads/2016/09/chugiak_area_business.jpg" alt=""></img>
+		<img id="img_05" src="https://www.chugiak.biz/wp-content/uploads/2016/09/red_white_blue_flowers.jpg" alt=""></img>
+                <img id="img_06" src="https://www.chugiak.biz/wp-content/uploads/2016/10/tree_summer_k1.jpg" alt=""></img>
+		<img id="img_07" src="https://www.chugiak.biz/wp-content/uploads/2016/10/july.4th.jpg" alt=""></img>
+		<img id="img_08" src="https://www.chugiak.biz/wp-content/uploads/2016/10/fireweed.jpg" alt=""></img>
+		<img id="img_09" src="https://www.chugiak.biz/wp-content/uploads/2016/10/peters_creek_winter.jpg" 
+alt=""></img>
+	   </div>
+*/
+
+#logo {float:left;height:280px;width:360px;position:relative;margin: 0 auto;overflow:hidden;background:transparent;padding:10px;}
+#logo img {display:block;visibility:hidden;border:none;margin:10px 10px;}
+#logo img[id*='img'] {position:absolute;left:150%; top:0;visibility:visible;border-style: double groove solid groove;}
+#logo img#blank {border:none;}
+#logo img#img_01 {-webkit-animation:autoplay1 24s infinite 0s; animation:autoplay1 24s infinite 0s;}
+#logo img#img_02 {-webkit-animation:autoplay1 24s infinite 3s; animation:autoplay1 24s infinite 3s;}
+#logo img#img_03 {-webkit-animation:autoplay1 24s infinite 6s; animation:autoplay1 24s infinite 6s;}
+#logo img#img_04 {-webkit-animation:autoplay1 24s infinite 9s; animation:autoplay1 24s infinite 9s;}
+#logo img#img_05 {-webkit-animation:autoplay1 24s infinite 12s; animation:autoplay1 24s infinite 12s;}
+#logo img#img_06 {-webkit-animation:autoplay1 24s infinite 15s; animation:autoplay1 24s infinite 15s;}
+#logo img#img_07 {-webkit-animation:autoplay1 24s infinite 18s; animation:autoplay1 24s infinite 18s;}
+#logo img#img_08 {-webkit-animation:autoplay1 24s infinite 21s; animation:autoplay1 24s infinite 21s;}
+
+@keyframes autoplay0 {
+	0% {left:100%}
+	5%,12.5% {left:0;}
+	17.5%,100% {left:-100%}
+}
+@keyframes autoplay1 {
+	0% {left:-100%}
+	5%,12.5% {left:0;}
+	17.5%,100% {left:100%}
+}
+@keyframes autoplay2 {
+	5%,12.5% {background:#de5e60;}
+	0%,17.5%,100% {background:#2f3238;}
+}
+
+
+@-webkit-keyframes autoplay0 {
+	0% {left:100%}
+	5%,12.5% {left:0;}
+	17.5%,100% {left:-100%}
+}
+@-webkit-keyframes autoplay1 {
+	0% {left:-100%}
+	5%,12.5% {left:0;}
+	17.5%,100% {left:100%}
+}
+@-webkit-keyframes autoplay2 {
+	5%,12.5% {background:#de5e60;}
+	0%,17.5%,100% {background:#2f3238;}
+}

@@ -1,0 +1,7 @@
+2019-03-13T00:11:05+00:00 NOTICE abandoned_cart.success :: email: stephmwright71@gmail.com :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=adc29a1a417e3cae6024b414ee285278
+2019-03-13T00:14:22+00:00 NOTICE abandoned_cart.success :: email: stephmwright71@gmail.com :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=adc29a1a417e3cae6024b414ee285278
+2019-03-13T00:15:06+00:00 NOTICE order_submit.success :: addStoreOrder :: #1776 :: email: stephmwright71@gmail.com :: landing site https://shop.togetherwebake.org/wp-admin/admin.php?show_categories%5B%5D=146&range=&start_date=&end_date=&page=wc-reports&tab=orders&report=sales_by_category :: abandoned cart deleted [adc29a1a417e3cae6024b414ee285278]
+2019-03-13T00:40:07+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1776 :: email: stephmwright71@gmail.com
+2019-03-13T00:40:09+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1776 :: email: stephmwright71@gmail.com
+2019-03-13T14:02:09+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1776 :: email: stephmwright71@gmail.com
+2019-03-13T14:02:11+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1776 :: email: stephmwright71@gmail.com

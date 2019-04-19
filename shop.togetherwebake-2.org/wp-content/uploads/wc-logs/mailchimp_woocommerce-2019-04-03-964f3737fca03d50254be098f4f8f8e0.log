@@ -1,0 +1,2 @@
+2019-04-03T23:54:46+00:00 NOTICE abandoned_cart.success :: email: cbrandt@potomacschool.org :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=d1247ffea14147d06b41fe80f931d8c4
+2019-04-03T23:59:57+00:00 NOTICE order_submit.success :: addStoreOrder :: #1802 :: email: cbrandt@potomacschool.org :: landing site https://shop.togetherwebake.org/ :: abandoned cart deleted [d1247ffea14147d06b41fe80f931d8c4]

@@ -1,0 +1,8 @@
+2019-04-01T22:20:01+00:00 NOTICE abandoned_cart.success :: email: revampamor@gmail.com :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=37219c75ddc74748caff090ddeb67070
+2019-04-01T22:20:06+00:00 NOTICE ac.cart_swap :: Deleted cart [revampamor@gmail.com] :: ID [37219c75ddc74748caff090ddeb67070]
+2019-04-01T22:20:08+00:00 NOTICE abandoned_cart.success :: email: rosanna.guillot@gmail.com :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=da7e5984180bdf9a596c700ec3e8a5a6
+2019-04-01T22:20:38+00:00 NOTICE abandoned_cart.success :: email: rosanna.guillot@gmail.com :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=da7e5984180bdf9a596c700ec3e8a5a6
+2019-04-01T22:21:14+00:00 NOTICE ac.cart_swap :: Deleted cart [rosanna.guillot@gmail.com] :: ID [da7e5984180bdf9a596c700ec3e8a5a6]
+2019-04-01T22:21:15+00:00 NOTICE abandoned_cart.success :: email: revampamor@gmail.com :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=37219c75ddc74748caff090ddeb67070
+2019-04-01T22:21:20+00:00 NOTICE ac.cart_swap :: Deleted cart [revampamor@gmail.com] :: ID [37219c75ddc74748caff090ddeb67070]
+2019-04-01T22:21:22+00:00 NOTICE abandoned_cart.success :: email: rosanna.guillot@gmail.com :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=da7e5984180bdf9a596c700ec3e8a5a6

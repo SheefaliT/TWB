@@ -1,0 +1,173 @@
+"Order ID","Order Key",Title,"Billing First Name","Billing Last Name","Billing Email Address","Product Name",Quantity,"Item Total"
+1392,wc_order_5b118a5bb8939,"Order - June 1, 2018 @ 02:03 PM",Taylor,Kiland,TaylorBKiland@aol.com,"For Bakers - Smart Trip Card",1,40
+1393,wc_order_5b119452a96c0,"Order - June 1, 2018 @ 02:45 PM",REBECCA,WETHERLY,rw346318@gmail.com,"For Bakers - Smart Trip Card",2,80
+1394,wc_order_5b12a272110c7,"Order - June 2, 2018 @ 09:58 AM",Stacy,Carlson,stacy.carlson4@icloud.com,"For Bakers - Apron",1,15
+1394,wc_order_5b12a272110c7,"Order - June 2, 2018 @ 09:58 AM",Stacy,Carlson,stacy.carlson4@icloud.com,"For Bakers - Smart Trip Card",2,80
+1394,wc_order_5b12a272110c7,"Order - June 2, 2018 @ 09:58 AM",Stacy,Carlson,stacy.carlson4@icloud.com,"For Bakers - Chocolate Chips",2,20
+1395,wc_order_5b1404cdbe32c,"Order - June 3, 2018 @ 11:10 AM",Laura,Francis,LKF313@gmail.com,"For Bakers - Apron",3,45
+1396,wc_order_5b14949e6192b,"Order - June 3, 2018 @ 09:23 PM",Stephanie,Lynch,stephjpaul@hotmail.com,"For Bakers - Apron",1,15
+1396,wc_order_5b14949e6192b,"Order - June 3, 2018 @ 09:23 PM",Stephanie,Lynch,stephjpaul@hotmail.com,"For Bakers - Chocolate Chips",1,10
+1396,wc_order_5b14949e6192b,"Order - June 3, 2018 @ 09:23 PM",Stephanie,Lynch,stephjpaul@hotmail.com,"Chocolate Chip Cookies - 1 Dozen",3,54
+1397,wc_order_5b169a7057b15,"Order - June 5, 2018 @ 10:13 AM",Ryan,Merkel,remerkel@gmail.com,"Cinnamon-Pecan Granola, 1 Pound",3,36
+1398,wc_order_5b194db57a07d,"Order - June 7, 2018 @ 11:22 AM",Angela,Chase,amchase@me.com,"Small Cinnamon Apple Chips - Snack Pack",2,20
+1398,wc_order_5b194db57a07d,"Order - June 7, 2018 @ 11:22 AM",Angela,Chase,amchase@me.com,"Mini Sample Pack",1,9.75
+1398,wc_order_5b194db57a07d,"Order - June 7, 2018 @ 11:22 AM",Angela,Chase,amchase@me.com,"Trail Mix",1,3.75
+1398,wc_order_5b194db57a07d,"Order - June 7, 2018 @ 11:22 AM",Angela,Chase,amchase@me.com,"Cinnamon Apple Chips - Bonus Box",1,30
+1399,wc_order_5b1ab70f9e85c,"Order - June 8, 2018 @ 01:04 PM",Haley,Habenicht,hhabenicht@eab.com,"Small Cinnamon Apple Chips - Snack Pack",5,50
+1400,wc_order_5b1ad60c51b6a,"Order - June 8, 2018 @ 03:16 PM",Karen,Barnes,kcb703@gmail.com,"For Bakers - Chocolate Chips",1,10
+1400,wc_order_5b1ad60c51b6a,"Order - June 8, 2018 @ 03:16 PM",Karen,Barnes,kcb703@gmail.com,"For Bakers - Smart Trip Card",1,40
+1402,wc_order_5b1d49183003b,"Order - June 10, 2018 @ 11:51 AM",Bruce,Hedman,brucehedman@yahoo.com,"For Bakers - Smart Trip Card",2,80
+1403,wc_order_5b1d4aa7c1099,"Order - June 10, 2018 @ 11:58 AM","C J",Reid,creid@aasa.org,"For Bakers - Chocolate Chips",3,30
+1403,wc_order_5b1d4aa7c1099,"Order - June 10, 2018 @ 11:58 AM","C J",Reid,creid@aasa.org,"For Bakers - Hat",3,45
+1403,wc_order_5b1d4aa7c1099,"Order - June 10, 2018 @ 11:58 AM","C J",Reid,creid@aasa.org,"For Bakers - Apron",3,45
+1403,wc_order_5b1d4aa7c1099,"Order - June 10, 2018 @ 11:58 AM","C J",Reid,creid@aasa.org,"For Bakers - Smart Trip Card",1,40
+1404,wc_order_5b1d5b2d1efc5,"Order - June 10, 2018 @ 01:09 PM",Vance,Beauregard,vybeauregard+togetherwebake@gmail.com,"For Bakers - Chocolate Chips",10,100
+1405,wc_order_5b1d64d242a52,"Order - June 10, 2018 @ 01:50 PM",Sheri,"Van Someren",sheri.lauten@gmail.com,"For Bakers - Smart Trip Card",2,80
+1406,wc_order_5b1d702147e87,"Order - June 10, 2018 @ 02:38 PM",Christine,Tilton,cltilton1@gmail.com,"For Bakers - Hat",1,15
+1407,wc_order_5b1d79f542077,"Order - June 10, 2018 @ 03:20 PM",Lisa,Eskew,lisaeskew@comcast.net,"For Bakers - Apron",1,15
+1407,wc_order_5b1d79f542077,"Order - June 10, 2018 @ 03:20 PM",Lisa,Eskew,lisaeskew@comcast.net,"For Bakers - Chocolate Chips",1,10
+1407,wc_order_5b1d79f542077,"Order - June 10, 2018 @ 03:20 PM",Lisa,Eskew,lisaeskew@comcast.net,"For Bakers - Hat",1,15
+1407,wc_order_5b1d79f542077,"Order - June 10, 2018 @ 03:20 PM",Lisa,Eskew,lisaeskew@comcast.net,"For Bakers - Smart Trip Card",1,40
+1408,wc_order_5b1d85ed45137,"Order - June 10, 2018 @ 04:11 PM",Amy,Curtis,amylcurtis@me.com,"For Bakers - Apron",5,75
+1408,wc_order_5b1d85ed45137,"Order - June 10, 2018 @ 04:11 PM",Amy,Curtis,amylcurtis@me.com,"For Bakers - Smart Trip Card",4,160
+1408,wc_order_5b1d85ed45137,"Order - June 10, 2018 @ 04:11 PM",Amy,Curtis,amylcurtis@me.com,"For Bakers - Chocolate Chips",10,100
+1408,wc_order_5b1d85ed45137,"Order - June 10, 2018 @ 04:11 PM",Amy,Curtis,amylcurtis@me.com,"For Bakers - Hat",11,165
+1409,wc_order_5b1dc6255a924,"Order - June 10, 2018 @ 08:45 PM",Bowman,Miller,pambomiller@aol.com,"For Bakers - Apron",1,15
+1409,wc_order_5b1dc6255a924,"Order - June 10, 2018 @ 08:45 PM",Bowman,Miller,pambomiller@aol.com,"For Bakers - Smart Trip Card",1,40
+1409,wc_order_5b1dc6255a924,"Order - June 10, 2018 @ 08:45 PM",Bowman,Miller,pambomiller@aol.com,"For Bakers - Hat",1,15
+1409,wc_order_5b1dc6255a924,"Order - June 10, 2018 @ 08:45 PM",Bowman,Miller,pambomiller@aol.com,"For Bakers - Chocolate Chips",8,80
+1410,wc_order_5b1eb94cc04fe,"Order - June 11, 2018 @ 02:02 PM",Priscilla,Smith,Minatoku35@gmail.com,"For Bakers - Apron",1,15
+1410,wc_order_5b1eb94cc04fe,"Order - June 11, 2018 @ 02:02 PM",Priscilla,Smith,Minatoku35@gmail.com,"For Bakers - Hat",1,15
+1410,wc_order_5b1eb94cc04fe,"Order - June 11, 2018 @ 02:02 PM",Priscilla,Smith,Minatoku35@gmail.com,"Cookie/Granola Combo",1,30
+1411,wc_order_5b2086769a3f9,"Order - June 12, 2018 @ 10:50 PM",Clark,Bavin,clark@thevideosolution.com,"For Bakers - Apron",1,15
+1411,wc_order_5b2086769a3f9,"Order - June 12, 2018 @ 10:50 PM",Clark,Bavin,clark@thevideosolution.com,"For Bakers - Hat",1,15
+1411,wc_order_5b2086769a3f9,"Order - June 12, 2018 @ 10:50 PM",Clark,Bavin,clark@thevideosolution.com,"For Bakers - Chocolate Chips",1,10
+1411,wc_order_5b2086769a3f9,"Order - June 12, 2018 @ 10:50 PM",Clark,Bavin,clark@thevideosolution.com,"For Bakers - Smart Trip Card",1,40
+1412,wc_order_5b21181c6f11a,"Order - June 13, 2018 @ 09:11 AM",susan,golightly,ssgolightly@aol.com,"For Bakers - Chocolate Chips",1,10
+1413,wc_order_5b228e0b229b1,"Order - June 14, 2018 @ 11:47 AM",Paul,Sullivan,sully45@hotmail.com,"Cookie/Granola Combo",1,30
+1414,wc_order_5b22b6dc255d0,"Order - June 14, 2018 @ 02:41 PM",Barbara,Warder,barbaracwarder@gmail.com,"For Bakers - Smart Trip Card",1,40
+1414,wc_order_5b22b6dc255d0,"Order - June 14, 2018 @ 02:41 PM",Barbara,Warder,barbaracwarder@gmail.com,"For Bakers - Chocolate Chips",1,10
+1414,wc_order_5b22b6dc255d0,"Order - June 14, 2018 @ 02:41 PM",Barbara,Warder,barbaracwarder@gmail.com,"For Bakers - Apron",1,15
+1414,wc_order_5b22b6dc255d0,"Order - June 14, 2018 @ 02:41 PM",Barbara,Warder,barbaracwarder@gmail.com,"For Bakers - Hat",1,15
+1415,wc_order_5b22d284df2be,"Order - June 14, 2018 @ 04:39 PM",Robin,Eskew,jeskew@seeforever.org,"Cinnamon-Pecan Granola, 1 Pound",2,24
+1416,wc_order_5b23087ce1233,"Order - June 14, 2018 @ 08:29 PM",Janet,Forsgren,dforsgren@cox.net,"For Bakers - Hat",1,15
+1416,wc_order_5b23087ce1233,"Order - June 14, 2018 @ 08:29 PM",Janet,Forsgren,dforsgren@cox.net,"For Bakers - Apron",1,15
+1416,wc_order_5b23087ce1233,"Order - June 14, 2018 @ 08:29 PM",Janet,Forsgren,dforsgren@cox.net,"For Bakers - Chocolate Chips",1,10
+1417,wc_order_5b23eb501b702,"Order - June 15, 2018 @ 12:37 PM","K M",Grane,kmgrane@aol.com,"For Bakers - Apron",1,15
+1417,wc_order_5b23eb501b702,"Order - June 15, 2018 @ 12:37 PM","K M",Grane,kmgrane@aol.com,"For Bakers - Smart Trip Card",1,40
+1417,wc_order_5b23eb501b702,"Order - June 15, 2018 @ 12:37 PM","K M",Grane,kmgrane@aol.com,"For Bakers - Hat",1,15
+1417,wc_order_5b23eb501b702,"Order - June 15, 2018 @ 12:37 PM","K M",Grane,kmgrane@aol.com,"For Bakers - Chocolate Chips",1,10
+1418,wc_order_5b23fed5ca52c,"Order - June 15, 2018 @ 02:00 PM",Tanya,Lervik,tanyalervik@gmail.com,"For Bakers - Chocolate Chips",1,10
+1419,wc_order_5b26829f58e8e,"Order - June 17, 2018 @ 11:47 AM",Tucker,Eskew,teskew@vianovo.com,"For Bakers - Apron",1,15
+1419,wc_order_5b26829f58e8e,"Order - June 17, 2018 @ 11:47 AM",Tucker,Eskew,teskew@vianovo.com,"For Bakers - Chocolate Chips",1,10
+1419,wc_order_5b26829f58e8e,"Order - June 17, 2018 @ 11:47 AM",Tucker,Eskew,teskew@vianovo.com,"For Bakers - Hat",1,15
+1419,wc_order_5b26829f58e8e,"Order - June 17, 2018 @ 11:47 AM",Tucker,Eskew,teskew@vianovo.com,"For Bakers - Smart Trip Card",1,40
+1420,wc_order_5b268c2c7595f,"Order - June 17, 2018 @ 12:28 PM",Laura,Partee,laura.partee@gmail.com,"Small Cinnamon Apple Chips",16,32
+1421,wc_order_5b26ce7cc5da4,"Order - June 17, 2018 @ 05:11 PM",Verleah,Kosloske,mt.alverna@gmail.com,"For Bakers - Chocolate Chips",1,10
+1421,wc_order_5b26ce7cc5da4,"Order - June 17, 2018 @ 05:11 PM",Verleah,Kosloske,mt.alverna@gmail.com,"For Bakers - Hat",1,15
+1421,wc_order_5b26ce7cc5da4,"Order - June 17, 2018 @ 05:11 PM",Verleah,Kosloske,mt.alverna@gmail.com,"For Bakers - Smart Trip Card",1,40
+1421,wc_order_5b26ce7cc5da4,"Order - June 17, 2018 @ 05:11 PM",Verleah,Kosloske,mt.alverna@gmail.com,"For Bakers - Apron",1,15
+1422,wc_order_5b26d00f2fcfe,"Order - June 17, 2018 @ 05:18 PM",Verleah,Kosloske,mt.alverna@gmail.com,"For Bakers - Hat",1,15
+1422,wc_order_5b26d00f2fcfe,"Order - June 17, 2018 @ 05:18 PM",Verleah,Kosloske,mt.alverna@gmail.com,"For Bakers - Smart Trip Card",1,40
+1422,wc_order_5b26d00f2fcfe,"Order - June 17, 2018 @ 05:18 PM",Verleah,Kosloske,mt.alverna@gmail.com,"For Bakers - Apron",1,15
+1422,wc_order_5b26d00f2fcfe,"Order - June 17, 2018 @ 05:18 PM",Verleah,Kosloske,mt.alverna@gmail.com,"For Bakers - Chocolate Chips",1,10
+1423,wc_order_5b2a789d676fe,"Order - June 20, 2018 @ 11:54 AM",Chas,Harris,chasharris@comcast.net,"For Bakers - Chocolate Chips",1,10
+1423,wc_order_5b2a789d676fe,"Order - June 20, 2018 @ 11:54 AM",Chas,Harris,chasharris@comcast.net,"For Bakers - Hat",1,15
+1424,wc_order_5b2ada6dc3c21,"Order - June 20, 2018 @ 06:51 PM",Christopher,Holmes,biff14124@hotmail.com,"For Bakers - Chocolate Chips",2,20
+1424,wc_order_5b2ada6dc3c21,"Order - June 20, 2018 @ 06:51 PM",Christopher,Holmes,biff14124@hotmail.com,"For Bakers - Smart Trip Card",1,40
+1425,wc_order_5b2c0d68d4bd4,"Order - June 21, 2018 @ 04:41 PM",Janet,Forsgren,dforsgren@cox.net,"For Bakers - Apron",1,15
+1425,wc_order_5b2c0d68d4bd4,"Order - June 21, 2018 @ 04:41 PM",Janet,Forsgren,dforsgren@cox.net,"For Bakers - Hat",1,15
+1425,wc_order_5b2c0d68d4bd4,"Order - June 21, 2018 @ 04:41 PM",Janet,Forsgren,dforsgren@cox.net,"For Bakers - Smart Trip Card",1,40
+1425,wc_order_5b2c0d68d4bd4,"Order - June 21, 2018 @ 04:41 PM",Janet,Forsgren,dforsgren@cox.net,"For Bakers - Chocolate Chips",1,10
+1426,wc_order_5b2c2940e4d6d,"Order - June 21, 2018 @ 06:40 PM",Rosemary,Beales,remembrance49@gmail.com,"For Bakers - Hat",1,15
+1426,wc_order_5b2c2940e4d6d,"Order - June 21, 2018 @ 06:40 PM",Rosemary,Beales,remembrance49@gmail.com,"For Bakers - Apron",1,15
+1427,wc_order_5b2cecd8b59fa,"Order - June 22, 2018 @ 08:34 AM","Linda Kaye",Zauzig,lkzreport@hotmail.com,"For Bakers - Chocolate Chips",6,60
+1427,wc_order_5b2cecd8b59fa,"Order - June 22, 2018 @ 08:34 AM","Linda Kaye",Zauzig,lkzreport@hotmail.com,"For Bakers - Smart Trip Card",1,40
+1428,wc_order_5b2d2529d71db,"Order - June 22, 2018 @ 12:34 PM",Leslie,Golden,leslieseals@gmail.com,"For Bakers - Smart Trip Card",2,80
+1428,wc_order_5b2d2529d71db,"Order - June 22, 2018 @ 12:34 PM",Leslie,Golden,leslieseals@gmail.com,"For Bakers - Chocolate Chips",2,20
+1429,wc_order_5b2d2da32e1bb,"Order - June 22, 2018 @ 01:10 PM",Katherine,Murphy,katherine.murphy@comcast.net,"For Bakers - Smart Trip Card",1,40
+1429,wc_order_5b2d2da32e1bb,"Order - June 22, 2018 @ 01:10 PM",Katherine,Murphy,katherine.murphy@comcast.net,"For Bakers - Apron",1,15
+1429,wc_order_5b2d2da32e1bb,"Order - June 22, 2018 @ 01:10 PM",Katherine,Murphy,katherine.murphy@comcast.net,"For Bakers - Hat",1,15
+1429,wc_order_5b2d2da32e1bb,"Order - June 22, 2018 @ 01:10 PM",Katherine,Murphy,katherine.murphy@comcast.net,"For Bakers - Chocolate Chips",1,10
+1431,wc_order_5b2fb68ed4b9e,"Order - June 24, 2018 @ 11:19 AM",Hannah,Grafelman,hannah.grafelman@gmail.com,"For Bakers - Chocolate Chips",1,10
+1432,wc_order_5b2fb9ed5a80d,"Order - June 24, 2018 @ 11:34 AM",Susan,McGrath,SAMCG@Comcast.net,"For Bakers - Apron",1,15
+1432,wc_order_5b2fb9ed5a80d,"Order - June 24, 2018 @ 11:34 AM",Susan,McGrath,SAMCG@Comcast.net,"For Bakers - Hat",1,15
+1432,wc_order_5b2fb9ed5a80d,"Order - June 24, 2018 @ 11:34 AM",Susan,McGrath,SAMCG@Comcast.net,"For Bakers - Chocolate Chips",1,10
+1432,wc_order_5b2fb9ed5a80d,"Order - June 24, 2018 @ 11:34 AM",Susan,McGrath,SAMCG@Comcast.net,"For Bakers - Smart Trip Card",1,40
+1433,wc_order_5b2fbb9a3a7ab,"Order - June 24, 2018 @ 11:41 AM",Susan,McGrath,SAMCG@Comcast.net,"For Bakers - Chocolate Chips",1,10
+1433,wc_order_5b2fbb9a3a7ab,"Order - June 24, 2018 @ 11:41 AM",Susan,McGrath,SAMCG@Comcast.net,"For Bakers - Smart Trip Card",1,40
+1434,wc_order_5b2fc155b0127,"Order - June 24, 2018 @ 12:05 PM",Jon,Williams,bond2th@aol.com,"For Bakers - Chocolate Chips",1,10
+1434,wc_order_5b2fc155b0127,"Order - June 24, 2018 @ 12:05 PM",Jon,Williams,bond2th@aol.com,"Donation - $50 - Friend of TWB",1,50
+1435,wc_order_5b2fc35dce3df,"Order - June 24, 2018 @ 12:14 PM",Brett,Camet,brett.camet@geocent.com,"Donation - $50 - Friend of TWB",1,50
+1436,wc_order_5b2fc491e0eda,"Order - June 24, 2018 @ 12:19 PM",Brett,Camet,brett.camet@geocent.com,"Donation - $50 - Friend of TWB",1,50
+1437,wc_order_5b2fc90099014,"Order - June 24, 2018 @ 12:38 PM",Joan,Benson,jcbenson2@verizon.net,"For Bakers - Apron",1,15
+1437,wc_order_5b2fc90099014,"Order - June 24, 2018 @ 12:38 PM",Joan,Benson,jcbenson2@verizon.net,"For Bakers - Hat",1,15
+1438,wc_order_5b2fd7ed288e0,"Order - June 24, 2018 @ 01:42 PM",Catherine,Tyler,admin.tylers@comcast.net,"For Bakers - Apron",2,30
+1438,wc_order_5b2fd7ed288e0,"Order - June 24, 2018 @ 01:42 PM",Catherine,Tyler,admin.tylers@comcast.net,"For Bakers - Chocolate Chips",4,40
+1438,wc_order_5b2fd7ed288e0,"Order - June 24, 2018 @ 01:42 PM",Catherine,Tyler,admin.tylers@comcast.net,"For Bakers - Smart Trip Card",1,40
+1439,wc_order_5b2fd9d9305cf,"Order - June 24, 2018 @ 01:50 PM",Marianne,Meyers,mariannemeyers@gmail.com,"For Bakers - Chocolate Chips",2,20
+1440,wc_order_5b2fda4b80785,"Order - June 24, 2018 @ 01:52 PM",Renee,Monday,reneemonday1966@gmail.com,"For Bakers - Smart Trip Card",1,40
+1440,wc_order_5b2fda4b80785,"Order - June 24, 2018 @ 01:52 PM",Renee,Monday,reneemonday1966@gmail.com,"For Bakers - Apron",1,15
+1441,wc_order_5b2fdbe8ef8a8,"Order - June 24, 2018 @ 01:59 PM",Jane,Cole,j2cole@verizon.net,"For Bakers - Smart Trip Card",1,40
+1442,wc_order_5b3003b827bd3,"Order - June 24, 2018 @ 04:48 PM",BP,Beach,BPBEACH@aol.com,"For Bakers - Chocolate Chips",1,10
+1442,wc_order_5b3003b827bd3,"Order - June 24, 2018 @ 04:48 PM",BP,Beach,BPBEACH@aol.com,"For Bakers - Apron",1,15
+1443,wc_order_5b30091641b68,"Order - June 24, 2018 @ 05:11 PM",GM,Malliet,gm@gmmalliet.com,"For Bakers - Chocolate Chips",5,50
+1443,wc_order_5b30091641b68,"Order - June 24, 2018 @ 05:11 PM",GM,Malliet,gm@gmmalliet.com,"For Bakers - Smart Trip Card",1,40
+1444,wc_order_5b300cbb9119a,"Order - June 24, 2018 @ 05:27 PM",Kathleen,ODay,kathleenoday20@gmail.com,"For Bakers - Apron",4,60
+1444,wc_order_5b300cbb9119a,"Order - June 24, 2018 @ 05:27 PM",Kathleen,ODay,kathleenoday20@gmail.com,"For Bakers - Smart Trip Card",1,40
+1445,wc_order_5b30145214355,"Order - June 24, 2018 @ 05:59 PM",Bret,Moore,moore.bret@gmail.com,"For Bakers - Chocolate Chips",1,10
+1445,wc_order_5b30145214355,"Order - June 24, 2018 @ 05:59 PM",Bret,Moore,moore.bret@gmail.com,"For Bakers - Hat",1,15
+1445,wc_order_5b30145214355,"Order - June 24, 2018 @ 05:59 PM",Bret,Moore,moore.bret@gmail.com,"For Bakers - Smart Trip Card",2,80
+1445,wc_order_5b30145214355,"Order - June 24, 2018 @ 05:59 PM",Bret,Moore,moore.bret@gmail.com,"For Bakers - Apron",1,15
+1446,wc_order_5b3030696b78e,"Order - June 24, 2018 @ 07:59 PM",Kara,Hardie,kbhardie1@gmail.com,"For Bakers - Chocolate Chips",2,20
+1447,wc_order_5b303e78bd1dc,"Order - June 24, 2018 @ 08:59 PM",Aruoriwo,Oboh-Weilke,rywo26@yahoo.com,"For Bakers - Chocolate Chips",4,40
+1447,wc_order_5b303e78bd1dc,"Order - June 24, 2018 @ 08:59 PM",Aruoriwo,Oboh-Weilke,rywo26@yahoo.com,"For Bakers - Apron",1,15
+1448,wc_order_5b30eeff35c9e,"Order - June 25, 2018 @ 09:32 AM",Sarah,Knutson,sknutson@akridge.com,"For Bakers - Chocolate Chips",1,10
+1448,wc_order_5b30eeff35c9e,"Order - June 25, 2018 @ 09:32 AM",Sarah,Knutson,sknutson@akridge.com,"For Bakers - Hat",1,15
+1448,wc_order_5b30eeff35c9e,"Order - June 25, 2018 @ 09:32 AM",Sarah,Knutson,sknutson@akridge.com,"For Bakers - Apron",1,15
+1448,wc_order_5b30eeff35c9e,"Order - June 25, 2018 @ 09:32 AM",Sarah,Knutson,sknutson@akridge.com,"For Bakers - Smart Trip Card",1,40
+1449,wc_order_5b31093f4dda3,"Order - June 25, 2018 @ 11:24 AM",Wayne,Popham,wayne.popham@scvllc.net,"For Bakers - Chocolate Chips",1,10
+1449,wc_order_5b31093f4dda3,"Order - June 25, 2018 @ 11:24 AM",Wayne,Popham,wayne.popham@scvllc.net,"For Bakers - Smart Trip Card",1,40
+1450,wc_order_5b31107cab53e,"Order - June 25, 2018 @ 11:55 AM",Victoria,Doran,victoriadoran@gmail.com,"For Bakers - Chocolate Chips",2,20
+1450,wc_order_5b31107cab53e,"Order - June 25, 2018 @ 11:55 AM",Victoria,Doran,victoriadoran@gmail.com,"For Bakers - Apron",1,15
+1451,wc_order_5b3135a656acb,"Order - June 25, 2018 @ 02:34 PM",Carol,Brewer,cjbrewer@aol.com,"For Bakers - Apron",2,30
+1452,wc_order_5b315340f14bd,"Order - June 25, 2018 @ 04:40 PM",Emily,Diamond,emilyediamond@gmail.com,"Chocolate Chip Cookies - 1 Dozen",1,14.4
+1453,wc_order_5b3158d707537,"Order - June 25, 2018 @ 05:04 PM",Susan,Sullivan,sgsullivan1@comcast.net,"For Bakers - Smart Trip Card",1,40
+1454,wc_order_5b3169830894e,"Order - June 25, 2018 @ 06:15 PM",Stephanie,TEST,stephanie@togetherwebake.org,"Chocolate Chip Cookies - 1 Dozen",1,18
+1455,wc_order_5b316da5b21d4,"Order - June 25, 2018 @ 06:33 PM",Stephanie,TEST,stephanie@togetherwebake.org,"Chocolate Chip Cookies - 1 Dozen",1,18
+1456,wc_order_5b322e7954614,"Order - June 26, 2018 @ 08:15 AM",Julie,Coburn,juliekcoburn@me.com,"For Bakers - Chocolate Chips",2,20
+1457,wc_order_5b323640c22ef,"Order - June 26, 2018 @ 08:49 AM",Jeffrey,Wilson,jeffwilson1@verizon.net,"For Bakers - Smart Trip Card",1,40
+1458,wc_order_5b32382429e4b,"Order - June 26, 2018 @ 08:57 AM",Charon,Harris,charonphillips@hotmail.com,"Donation - $100 - Loyal Customer",1,100
+1459,wc_order_5b32399b51dda,"Order - June 26, 2018 @ 09:03 AM",Jeffrey,Wilson,jeffwilson1@verizon.net,"For Bakers - Smart Trip Card",1,40
+1460,wc_order_5b33ac10cf87d,"Order - June 27, 2018 @ 11:24 AM",Temple,Moore,templemoore207@gmail.com,"For Bakers - Chocolate Chips",2,20
+1460,wc_order_5b33ac10cf87d,"Order - June 27, 2018 @ 11:24 AM",Temple,Moore,templemoore207@gmail.com,"For Bakers - Apron",2,30
+1461,wc_order_5b33bbeb02e87,"Order - June 27, 2018 @ 12:31 PM",Amanda,Altree,altree@comcast.net,"For Bakers - Smart Trip Card",1,40
+1461,wc_order_5b33bbeb02e87,"Order - June 27, 2018 @ 12:31 PM",Amanda,Altree,altree@comcast.net,"For Bakers - Chocolate Chips",1,10
+1462,wc_order_5b352025c81ee,"Order - June 28, 2018 @ 01:51 PM",LAURA,RHODES,rhodesland@aol.com,"For Bakers - Apron",1,15
+1462,wc_order_5b352025c81ee,"Order - June 28, 2018 @ 01:51 PM",LAURA,RHODES,rhodesland@aol.com,"For Bakers - Chocolate Chips",3,30
+1462,wc_order_5b352025c81ee,"Order - June 28, 2018 @ 01:51 PM",LAURA,RHODES,rhodesland@aol.com,"For Bakers - Hat",1,15
+1462,wc_order_5b352025c81ee,"Order - June 28, 2018 @ 01:51 PM",LAURA,RHODES,rhodesland@aol.com,"For Bakers - Smart Trip Card",1,40
+1463,wc_order_5b3556418ea08,"Order - June 28, 2018 @ 05:42 PM",Jeri,Mintzer,jeri.mintzer@gmail.com,"Cookie/Granola Combo",1,30
+1464,wc_order_5b364d8975580,"Order - June 29, 2018 @ 11:17 AM",michael,zeberlein,zeberlein_michael@hotmail.com,"Cinnamon-Pecan Granola, 1 Pound",3,36
+1465,wc_order_5b365e6352853,"Order - June 29, 2018 @ 12:29 PM",Anthony,Marasco,truman48@verizon.net,"For Bakers - Hat",1,15
+1465,wc_order_5b365e6352853,"Order - June 29, 2018 @ 12:29 PM",Anthony,Marasco,truman48@verizon.net,"For Bakers - Apron",1,15
+1466,wc_order_5b3662ff0b209,"Order - June 29, 2018 @ 12:49 PM",Griffin,Mauk,griffinalford456@yahoo.com,"For Bakers - Chocolate Chips",1,10
+1466,wc_order_5b3662ff0b209,"Order - June 29, 2018 @ 12:49 PM",Griffin,Mauk,griffinalford456@yahoo.com,"For Bakers - Hat",1,15
+1466,wc_order_5b3662ff0b209,"Order - June 29, 2018 @ 12:49 PM",Griffin,Mauk,griffinalford456@yahoo.com,"For Bakers - Smart Trip Card",1,40
+1466,wc_order_5b3662ff0b209,"Order - June 29, 2018 @ 12:49 PM",Griffin,Mauk,griffinalford456@yahoo.com,"For Bakers - Apron",1,15
+1467,wc_order_5b36729e72630,"Order - June 29, 2018 @ 01:55 PM",Timothy,Belevetz,tbelevetz@gmail.com,"For Bakers - Smart Trip Card",1,40
+1467,wc_order_5b36729e72630,"Order - June 29, 2018 @ 01:55 PM",Timothy,Belevetz,tbelevetz@gmail.com,"For Bakers - Chocolate Chips",1,10
+1468,wc_order_5b36757ad3ffd,"Order - June 29, 2018 @ 02:07 PM",Ann,Sherry,asherry299@yahoo.com,"Chocolate Chip Cookies - 1 Dozen",2,36
+1468,wc_order_5b36757ad3ffd,"Order - June 29, 2018 @ 02:07 PM",Ann,Sherry,asherry299@yahoo.com,"Cinnamon-Pecan Granola, 1 Pound",1,12
+1469,wc_order_5b36f9ad5a2f9,"Order - June 29, 2018 @ 11:31 PM",Edgar,Waggoner,edgar.g.waggoner@nasa.gov,"For Bakers - Smart Trip Card",1,40
+1469,wc_order_5b36f9ad5a2f9,"Order - June 29, 2018 @ 11:31 PM",Edgar,Waggoner,edgar.g.waggoner@nasa.gov,"For Bakers - Hat",1,15
+1469,wc_order_5b36f9ad5a2f9,"Order - June 29, 2018 @ 11:31 PM",Edgar,Waggoner,edgar.g.waggoner@nasa.gov,"For Bakers - Apron",1,15
+1469,wc_order_5b36f9ad5a2f9,"Order - June 29, 2018 @ 11:31 PM",Edgar,Waggoner,edgar.g.waggoner@nasa.gov,"For Bakers - Chocolate Chips",3,30
+1470,wc_order_5b3ba5c9ebec1,"Order - July 3, 2018 @ 12:35 PM",A,Solomon,asolomon@macfound.org,"Sample Pack",1,30
+1471,wc_order_5b40d3d5dc62b,"Order - July 7, 2018 @ 10:53 AM",Laurene,Argiropoulos,genesister@starpower.net,"Cinnamon-Pecan Granola, 1 Pound",4,48
+1472,wc_order_5b415cc816632,"Order - July 7, 2018 @ 08:37 PM",Julie,Bauer,bauerville@comcast.net,"For Bakers - Smart Trip Card",1,40
+1472,wc_order_5b415cc816632,"Order - July 7, 2018 @ 08:37 PM",Julie,Bauer,bauerville@comcast.net,"For Bakers - Chocolate Chips",3,30
+1473,wc_order_5b422fcabfd2b,"Order - July 8, 2018 @ 11:37 AM",mary,Penkiunas,kpenkiunas@me.com,"For Bakers - Chocolate Chips",4,40
+1473,wc_order_5b422fcabfd2b,"Order - July 8, 2018 @ 11:37 AM",mary,Penkiunas,kpenkiunas@me.com,"For Bakers - Hat",1,15
+1473,wc_order_5b422fcabfd2b,"Order - July 8, 2018 @ 11:37 AM",mary,Penkiunas,kpenkiunas@me.com,"For Bakers - Apron",1,15
+1473,wc_order_5b422fcabfd2b,"Order - July 8, 2018 @ 11:37 AM",mary,Penkiunas,kpenkiunas@me.com,"For Bakers - Smart Trip Card",1,40

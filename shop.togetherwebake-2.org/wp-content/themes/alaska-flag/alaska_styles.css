@@ -1,0 +1,104 @@
+body{width:98%;padding:1% 12px;margin:0;color:black;font-family:'Lato',sans-serif;font-size:medium;line-height:normal;text-align:left;background:white;}
+body.page{width:98%;padding:1% 12px;margin:0;color:black;font-family:'Lato',sans-serif;font-size:medium;line-height:normal;text-align:left;background:white;}
+
+.floatright{float:right;}
+.floatleft{float:left;}
+
+#wrapper {padding:0;margin:0 auto;background:#FFF;}
+/* top nav */
+.menu-top-container  {float:right;padding-right:2em;font-weight:bold;font-size:large;text-align:right;display:block;width:24%;}
+ul#menu-top.menu {margin:0;padding:.2em;list-style:none;clear:both;}
+ul#menu-top.menu li.menu-item {display:inline;white-space:nowrap;}
+a.top-menu {color:black;margin:0 1em;padding: 1% 3%;line-height:3em;text-decoration:none;border:2px solid transparent;border-radius:3px;text-shadow: 2px 2px 1px lightgrey;}
+a.top-menu:hover,a.top-menu:active,a.top-menu:focus {color:green;text-decoration:none;border: 2px solid green;text-shadow: 2px 2px 1px lightgreen;}
+/* close top nav */
+#header {float:left;padding:2% 0 0 8%;}
+#banner{background:white;border-bottom:2px ridge rgba(0,0,0,0.2);margin:-20px 0 0 0;min-height:80px;padding:25px 0 10px 0;text-align:left;}
+#blogname {margin:0;padding:0;color:#61a60e;font-size:30px;font-weight:900;font-family:'Shadows Into Light Two',cursive;}
+#tagline {padding: 1% 0 0 4%;}
+#wrapper #banner #logo img {box-shadow:none;height:100px;margin:0 4px;padding:0;width:100px;}
+#bannertext {clear:both;}
+#content{background:#FFF;clear:both;color:black;font-size:medium;margin:0;padding:0 8%;}
+#main-content {clear:both;}
+#content a {color:black;}
+#content a:hover, a:active, a:focus {color:green;box-shadow:inset 0 0 4px green;}
+p {margin:0;padding:0;}
+
+a img{box-shadow: inset 0 0 2px 1px #5e9f004d;padding:2px;margin:8px;}
+img {box-shadow: inset 0 0 2px 1px #5e9f004d;padding:2px;margin:8px;}
+
+h1.page-title {float:left;font-family:'Lato',sans-serif;font-size:1.8em;font-weight:600;margin:0;text-decoration:underline #5e9f00;text-underline-position:under left;}
+body.woocommerce-page div#wrapper div#content.SHOP p.woocommerce-result-count {display:none;}
+
+/* Woocommerce */
+span.optional {display:none;}
+ form.woocommerce-ordering {margin-top:1.6em;}
+.woocommerce #content table.cart td.actions .input-text, .woocommerce table.cart td.actions .input-text, .woocommerce-page #content table.cart td.actions .input-text, .woocommerce-page table.cart td.actions .input-text {width:100px;}
+.woocommerce ul.products {text-align:center;}
+.woocommerce ul.products li.product .price {color:black;font-weight:bold;}
+.woocommerce ul.products li.product .button {color:darkblue;background-color:#dafbdb;}
+.woocommerce ul.products li.product .button:hover, .button:active, .button:focus {color:green;background-color:white;
+ -webkit-box-shadow:inset 0 0 4px green;box-shadow:inset 0 0 4px green;}
+.woocommerce input.button {color:darkblue;background-color:#dafbdb;}
+.woocommerce input.button:hover, input.button:active, input.button:focus {color:green;background-color:white;
+ webkit-box-shadow:inset 0 0 4px green;box-shadow:inset 0 0 4px green;}
+.woocommerce button.button.alt{color:darkblue;background-color:#dafbdb;}
+.woocommerce button.button.alt:hover,button.button.alt:active,button.button.alt:focus {color:green;background-color:white;
+ webkit-box-shadow:inset 0 0 4px green;box-shadow:inset 0 0 4px green;}
+.woocommerce a.button.alt {color:darkblue;background-color:goldenrod;}
+.woocommerce a.button.alt:hover, a.button.alt:focus, a.button.alt:active {color:green;background-color:white;
+ webkit-box-shadow:inset 0 0 4px green;box-shadow:inset 0 0 4px green;}
+a.shipping-calculator-button {color:darkblue;background-color:#dafbdb;padding:.618em 1em;font-weight:700;border-radius:3px;}
+a.shipping-calculator-button:hover, a.shipping-calculator-button:active, a.shipping-calculator-button:focus {color:green;background-color:white;
+ webkit-box-shadow:inset 0 0 4px green;box-shadow:inset 0 0 4px green;}
+.woocommerce button.button.alt.disabled {color:darkblue;background-color:#dafbdb;}
+.woocommerce button.button.alt.disabled:hover {color:darkblue;background-color:#b0fcb2;}
+p.form-row.terms.wc-terms-and-conditions {background-color:#a46497;border-radius:3px;padding-left:4px;}
+.woocommerce #payment .terms, .woocommerce #payment .wc-terms-and-conditions, .woocommerce-page #payment .terms, .woocommerce-page #payment .wc-terms-and-conditions {padding:0 1em 0 1em;}
+#comments {clear:both;}
+.post-header{color: #61a60e;font-size:2em;font-weight:bold;font-family: 'Shadows Into Light Two',cursive;}
+
+.post-style{clear:both;}
+#footer {clear:both;background:#61a60e;color:#FFF;padding:2% 4%;line-height:1.3em;font-size:.8em;font-style:normal;font-weight:normal;font-variant:normal;text-align:left;}
+#footer p {white-space:normal;}
+#footer a{color:white;padding:0 2%;text-decoration:none;}
+#footer a:hover, a:active, a:focus {color:black;text-decoration:underline;}
+#footer p.footertag {text-align:left;}
+#footer .menu-social-container ul#menu-social.menu li {display:inline;font-family:FontAwesome;font-size:1.4em;}
+#footer .menu-bottom-container {}
+#footer .menu-bottom2-container {}
+#footer .menu a{color:white;margin:0;padding:0 1em;text-decoration:none;}
+#footer .menu a:hover, a:active, a:focus {color:black;text-decoration:underline;}
+#footer nav {display:block;padding:2% 0 0 0;width:66%;}
+#footer nav .menu ul {list-style:none;margin:0 auto;padding:0;width:100%;}
+#footer nav .menu ul li {display:inline;line-height:1.4em;list-style:none;overflow:hidden;white-space:nowrap;}
+#footer nav .menu ul.children{}
+#footer .copyright {float:right;margin-left:4em;margin-top:-100px;text-align:right;width:376px;}
+
+@media only screen and (max-width: 480px){
+.alignleft{text-align:left;float:none;padding-right:0%;}
+    #logo {float:none;}
+    #blogname {}
+    #top nav {margin:0 2%;width:100%;margin-top:0px;padding-right:2%;}
+    #main-content{font-size:large;margin:0 2%;}
+    .margin-text-right {margin-left:0;}
+div#wrapper div#content.catretail div#posts div.post-style div.post-content {margin:0 0 0 0;}
+    .post {margin:0;}
+    #footer .menu a{padding:2% 4%;}
+#footer nav {text-align:center;width:100%}
+#footer .copyright {float:none;margin:0 4%;text-align:center;width:100%;}
+}
+@media only screen and (min-width:481px) and (max-width:840px){
+
+.alignleft{text-align:left;float:none;padding-right:0%;}
+    #top nav {margin:0 2%;width:100%;}
+    #main-content{font-size:x-large;margin:0 2%;}
+    .margin-text-right {margin-left:0;}
+    .post {margin:1% 2%;}
+    #footer .menu a{padding:2% 6%;}
+    #footer nav {text-align:left;}
+#footer nav {text-align:center;width:100%;}
+#footer .copyright {float:none;margin:0 4%;text-align:center;width:100%;}
+}
+@media only screen and (min-width: 1280px){}
+@media(-webkit-min-device-pixel-ratio: 2) {}

@@ -1,0 +1,20 @@
+03-14-2019 @ 01:09:41 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=export&start_date=03%2F13%2F2019+10%3A59&end_date=03%2F14%2F2019+22%3A09&page=1
+03-14-2019 @ 01:09:42 - Exported 2 orders
+03-14-2019 @ 05:03:15 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=export&start_date=03%2F13%2F2019+17%3A09&end_date=03%2F15%2F2019+02%3A03&page=1
+03-14-2019 @ 05:03:15 - Exported 2 orders
+03-14-2019 @ 09:01:22 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=shipnotify&order_number=1778&carrier=USPS&service=USPS+Priority+Mail&tracking_number=9405511699000520004918&capture=true
+03-14-2019 @ 09:01:22 - ShipNotify XML: <?xml version="1.0" encoding="UTF-8"?><ShipNotice><OrderNumber>1778</OrderNumber><OrderID>1778</OrderID><CustomerCode>tgmorris98@sc.rr.com</CustomerCode><CustomerNotes><![CDATA[]]></CustomerNotes><InternalNotes><![CDATA[]]></InternalNotes><NotesToCustomer><![CDATA[]]></NotesToCustomer><NotifyCustomer>true</NotifyCustomer><LabelCreateDate>03/14/2019 07:00</LabelCreateDate><ShipDate>03/14/2019</ShipDate><Carrier>USPS</Carrier><Service>USPS Priority Mail</Service><TrackingNumber>9405511699000520004918</TrackingNumber><ShippingCost>8.07</ShippingCost><CustomField1>welcome</CustomField1><CustomField2 /><CustomField3 /><Recipient><Name>Gabriel Morris</Name><Company /><Address1>367 S BARRINGTON DR</Address1><Address2 /><City>FLORENCE</City><State>SC</State><PostalCode>29501-8670</PostalCode><Country>US</Country></Recipient><Items><Item><Name>Cinnamon-Pecan Granola, 1 Pound</Name><SKU>Granola</SKU><LineItemID>2823</LineItemID><Quantity>2</Quantity></Item></Items></ShipNotice>
+03-14-2019 @ 09:01:22 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Cinnamon-Pecan Granola, 1 Pound
+    [SKU] => Granola
+    [LineItemID] => 2823
+    [Quantity] => 2
+)
+
+03-14-2019 @ 09:01:22 - Shipped 2 out of 2 items in order 1778
+03-14-2019 @ 09:01:23 - Updated order 1778 to status wc-completed
+03-14-2019 @ 09:05:50 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=export&start_date=03%2F13%2F2019+21%3A03&end_date=03%2F15%2F2019+06%3A05&page=1
+03-14-2019 @ 09:05:51 - Exported 2 orders
+03-14-2019 @ 18:29:56 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=export&start_date=03%2F14%2F2019+01%3A05&end_date=03%2F15%2F2019+15%3A29&page=1
+03-14-2019 @ 18:29:57 - Exported 1 orders

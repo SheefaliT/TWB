@@ -1,0 +1,2 @@
+2019-03-31T22:52:35+00:00 NOTICE abandoned_cart.success :: email: pagnone@unfcu.com :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=fa8f378d0849652751e1b75086c54661
+2019-03-31T22:56:10+00:00 NOTICE order_submit.success :: addStoreOrder :: #1801 :: email: pagnone@unfcu.com :: landing site https://shop.togetherwebake.org/ :: abandoned cart deleted [fa8f378d0849652751e1b75086c54661]

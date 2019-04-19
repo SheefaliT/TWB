@@ -1,0 +1,16 @@
+2019-03-22T12:05:41+00:00 NOTICE abandoned_cart.success :: email: marthashelton@comcast.net :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=0535bfe00e6f735f726068008b8cee18
+2019-03-22T16:16:04+00:00 NOTICE abandoned_cart.success :: email: marthashelton@comcast.net :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=0535bfe00e6f735f726068008b8cee18
+2019-03-22T16:21:16+00:00 NOTICE abandoned_cart.success :: email: lisdelcid@outlook.com :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=8f85cf89626e390c50478778b99f4cef
+2019-03-22T16:24:57+00:00 NOTICE order_submit.success :: addStoreOrder :: #1789 :: email: marthashelton@comcast.net :: landing site https://shop.togetherwebake.org/ :: abandoned cart deleted [0535bfe00e6f735f726068008b8cee18]
+2019-03-22T16:28:01+00:00 NOTICE abandoned_cart.success :: email: lisdelcid@outlook.com :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=8f85cf89626e390c50478778b99f4cef
+2019-03-22T16:30:30+00:00 NOTICE order_submit.success :: addStoreOrder :: #1790 :: email: lisdelcid@outlook.com :: landing site https://shop.togetherwebake.org/wp-login.php :: abandoned cart deleted [8f85cf89626e390c50478778b99f4cef]
+2019-03-22T16:30:32+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1790 :: email: lisdelcid@outlook.com
+2019-03-22T16:30:34+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1790 :: email: lisdelcid@outlook.com
+2019-03-22T16:31:10+00:00 NOTICE abandoned_cart.success :: email: lisdelcid@outlook.com :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=8f85cf89626e390c50478778b99f4cef
+2019-03-22T16:31:10+00:00 NOTICE abandoned_cart.success :: email: lisdelcid@outlook.com :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=8f85cf89626e390c50478778b99f4cef
+2019-03-22T16:45:19+00:00 NOTICE order_submit.success :: addStoreOrder :: #1791 :: email: lisdelcid@outlook.com :: landing site https://shop.togetherwebake.org/?wc-ajax=get_refreshed_fragments
+2019-03-22T16:45:20+00:00 NOTICE abandoned_cart.success :: email: lisdelcid@outlook.com :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=8f85cf89626e390c50478778b99f4cef
+2019-03-22T16:47:38+00:00 NOTICE abandoned_cart.success :: email: lisdelcid@outlook.com :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=8f85cf89626e390c50478778b99f4cef
+2019-03-22T16:47:38+00:00 ERROR abandoned_cart.error :: email: lisdelcid@outlook.com :: attempting product update :: A cart may not contain the same line item id more than once.
+2019-03-22T16:47:40+00:00 ERROR abandoned_cart.error :: Error Code 400 :: A cart with the provided ID already exists in the account. on 1571 in /home/techvirginia/shop.togetherwebake.org/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2019-03-22T17:01:00+00:00 NOTICE order_submit.success :: addStoreOrder :: #1792 :: email: lisdelcid@outlook.com :: landing site https://shop.togetherwebake.org/?wc-ajax=get_refreshed_fragments :: abandoned cart deleted [8f85cf89626e390c50478778b99f4cef]

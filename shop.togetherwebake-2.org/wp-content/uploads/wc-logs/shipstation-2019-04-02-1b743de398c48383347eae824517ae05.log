@@ -1,0 +1,136 @@
+04-01-2019 @ 21:10:02 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=export&start_date=03%2F31%2F2019+18%3A18&end_date=04%2F02%2F2019+18%3A10&page=1
+04-01-2019 @ 21:10:03 - Exported 1 orders
+04-02-2019 @ 04:23:47 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=export&start_date=04%2F01%2F2019+13%3A10&end_date=04%2F03%2F2019+01%3A23&page=1
+04-02-2019 @ 04:23:48 - Exported 0 orders
+04-02-2019 @ 09:29:58 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=shipnotify&order_number=1796&carrier=USPS&service=USPS+Priority+Mail&tracking_number=9405511699000928671736&capture=true
+04-02-2019 @ 09:29:58 - ShipNotify XML: <?xml version="1.0" encoding="UTF-8"?><ShipNotice><OrderNumber>1796</OrderNumber><OrderID>1796</OrderID><CustomerCode>edlidi@aol.com</CustomerCode><CustomerNotes><![CDATA[]]></CustomerNotes><InternalNotes><![CDATA[]]></InternalNotes><NotesToCustomer><![CDATA[]]></NotesToCustomer><NotifyCustomer>true</NotifyCustomer><LabelCreateDate>04/02/2019 07:00</LabelCreateDate><ShipDate>04/02/2019</ShipDate><Carrier>USPS</Carrier><Service>USPS Priority Mail</Service><TrackingNumber>9405511699000928671736</TrackingNumber><ShippingCost>8.0</ShippingCost><CustomField1 /><CustomField2 /><CustomField3 /><Recipient><Name>Edward Fickus</Name><Company /><Address1>1149 ONTARIO CT</Address1><Address2 /><City>OWINGS</City><State>MD</State><PostalCode>20736-8718</PostalCode><Country>US</Country></Recipient><Items><Item><Name>Chocolate Chip Cookies - 1 Dozen</Name><SKU>Cookies</SKU><LineItemID>2860</LineItemID><Quantity>3</Quantity></Item></Items></ShipNotice>
+04-02-2019 @ 09:29:58 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Chocolate Chip Cookies - 1 Dozen
+    [SKU] => Cookies
+    [LineItemID] => 2860
+    [Quantity] => 3
+)
+
+04-02-2019 @ 09:29:59 - Shipped 3 out of 3 items in order 1796
+04-02-2019 @ 09:30:01 - Updated order 1796 to status wc-completed
+04-02-2019 @ 09:34:54 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=shipnotify&order_number=1798&carrier=USPS&service=USPS+Priority+Mail&tracking_number=9405511699000928683869&capture=true
+04-02-2019 @ 09:34:54 - ShipNotify XML: <?xml version="1.0" encoding="UTF-8"?><ShipNotice><OrderNumber>1798</OrderNumber><OrderID>1798</OrderID><CustomerCode>harbi14@gmail.com</CustomerCode><CustomerNotes><![CDATA[]]></CustomerNotes><InternalNotes><![CDATA[]]></InternalNotes><NotesToCustomer><![CDATA[]]></NotesToCustomer><NotifyCustomer>true</NotifyCustomer><LabelCreateDate>04/02/2019 07:00</LabelCreateDate><ShipDate>04/02/2019</ShipDate><Carrier>USPS</Carrier><Service>USPS Priority Mail</Service><TrackingNumber>9405511699000928683869</TrackingNumber><ShippingCost>8.07</ShippingCost><CustomField1 /><CustomField2 /><CustomField3 /><Recipient><Name>Garth Harbison</Name><Company /><Address1>2162 ESTELLE LN</Address1><Address2 /><City>CROWN POINT</City><State>IN</State><PostalCode>46307-4251</PostalCode><Country>US</Country></Recipient><Items><Item><Name>Chocolate Chip Cookies - 1 Dozen</Name><SKU>Cookies</SKU><LineItemID>2866</LineItemID><Quantity>1</Quantity></Item><Item><Name>Cinnamon-Pecan Granola, 1 Pound</Name><SKU>Granola</SKU><LineItemID>2867</LineItemID><Quantity>1</Quantity></Item><Item><Name>Cinnamon Apple Chips</Name><SKU>Apple-Chips</SKU><LineItemID>2868</LineItemID><Quantity>1</Quantity></Item></Items></ShipNotice>
+04-02-2019 @ 09:34:54 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Chocolate Chip Cookies - 1 Dozen
+    [SKU] => Cookies
+    [LineItemID] => 2866
+    [Quantity] => 1
+)
+
+04-02-2019 @ 09:34:55 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Cinnamon-Pecan Granola, 1 Pound
+    [SKU] => Granola
+    [LineItemID] => 2867
+    [Quantity] => 1
+)
+
+04-02-2019 @ 09:34:55 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Cinnamon Apple Chips
+    [SKU] => Apple-Chips
+    [LineItemID] => 2868
+    [Quantity] => 1
+)
+
+04-02-2019 @ 09:34:55 - Shipped 3 out of 3 items in order 1798
+04-02-2019 @ 09:34:56 - Updated order 1798 to status wc-completed
+04-02-2019 @ 09:37:59 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=shipnotify&order_number=1797&carrier=USPS&service=USPS+Priority+Mail&tracking_number=9405511699000928936705&capture=true
+04-02-2019 @ 09:37:59 - ShipNotify XML: <?xml version="1.0" encoding="UTF-8"?><ShipNotice><OrderNumber>1797</OrderNumber><OrderID>1797</OrderID><CustomerCode>sreney@gmail.com</CustomerCode><CustomerNotes><![CDATA[]]></CustomerNotes><InternalNotes><![CDATA[]]></InternalNotes><NotesToCustomer><![CDATA[]]></NotesToCustomer><NotifyCustomer>true</NotifyCustomer><LabelCreateDate>04/02/2019 07:00</LabelCreateDate><ShipDate>04/02/2019</ShipDate><Carrier>USPS</Carrier><Service>USPS Priority Mail</Service><TrackingNumber>9405511699000928936705</TrackingNumber><ShippingCost>7.6</ShippingCost><CustomField1 /><CustomField2 /><CustomField3 /><Recipient><Name>Sean Reney</Name><Company /><Address1>7975 ALMEDA CT</Address1><Address2 /><City>LORTON</City><State>VA</State><PostalCode>22079-2363</PostalCode><Country>US</Country></Recipient><Items><Item><Name>Cinnamon-Pecan Granola, 1 Pound</Name><SKU>Granola</SKU><LineItemID>2862</LineItemID><Quantity>2</Quantity></Item><Item><Name>Cinnamon Apple Chips</Name><SKU>Apple-Chips</SKU><LineItemID>2863</LineItemID><Quantity>1</Quantity></Item></Items></ShipNotice>
+04-02-2019 @ 09:37:59 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Cinnamon-Pecan Granola, 1 Pound
+    [SKU] => Granola
+    [LineItemID] => 2862
+    [Quantity] => 2
+)
+
+04-02-2019 @ 09:37:59 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Cinnamon Apple Chips
+    [SKU] => Apple-Chips
+    [LineItemID] => 2863
+    [Quantity] => 1
+)
+
+04-02-2019 @ 09:37:59 - Shipped 3 out of 3 items in order 1797
+04-02-2019 @ 09:38:01 - Updated order 1797 to status wc-completed
+04-02-2019 @ 09:40:37 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=shipnotify&order_number=1799&carrier=USPS&service=USPS+Priority+Mail&tracking_number=9405511699000928974905&capture=true
+04-02-2019 @ 09:40:37 - ShipNotify XML: <?xml version="1.0" encoding="UTF-8"?><ShipNotice><OrderNumber>1799</OrderNumber><OrderID>1799</OrderID><CustomerCode>allik3737@yahoo.com</CustomerCode><CustomerNotes><![CDATA[]]></CustomerNotes><InternalNotes><![CDATA[]]></InternalNotes><NotesToCustomer><![CDATA[]]></NotesToCustomer><NotifyCustomer>true</NotifyCustomer><LabelCreateDate>04/02/2019 07:00</LabelCreateDate><ShipDate>04/02/2019</ShipDate><Carrier>USPS</Carrier><Service>USPS Priority Mail</Service><TrackingNumber>9405511699000928974905</TrackingNumber><ShippingCost>7.8</ShippingCost><CustomField1 /><CustomField2 /><CustomField3 /><Recipient><Name>Allison Knouse</Name><Company /><Address1>83 BUCKINGHAM AVE STE B</Address1><Address2 /><City>MILFORD</City><State>CT</State><PostalCode>06460-4882</PostalCode><Country>US</Country></Recipient><Items><Item><Name>Cinnamon-Pecan Granola, 1 Pound</Name><SKU>Granola</SKU><LineItemID>2870</LineItemID><Quantity>1</Quantity></Item><Item><Name>Cinnamon Apple Chips</Name><SKU>Apple-Chips</SKU><LineItemID>2871</LineItemID><Quantity>1</Quantity></Item></Items></ShipNotice>
+04-02-2019 @ 09:40:37 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Cinnamon-Pecan Granola, 1 Pound
+    [SKU] => Granola
+    [LineItemID] => 2870
+    [Quantity] => 1
+)
+
+04-02-2019 @ 09:40:37 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Cinnamon Apple Chips
+    [SKU] => Apple-Chips
+    [LineItemID] => 2871
+    [Quantity] => 1
+)
+
+04-02-2019 @ 09:40:37 - Shipped 2 out of 2 items in order 1799
+04-02-2019 @ 09:40:38 - Updated order 1799 to status wc-completed
+04-02-2019 @ 09:58:15 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=shipnotify&order_number=1800&carrier=USPS&service=USPS+Priority+Mail&tracking_number=9405511699000920008998&capture=true
+04-02-2019 @ 09:58:16 - ShipNotify XML: <?xml version="1.0" encoding="UTF-8"?><ShipNotice><OrderNumber>1800</OrderNumber><OrderID>1800</OrderID><CustomerCode>mmm799701@gmail.com</CustomerCode><CustomerNotes><![CDATA[]]></CustomerNotes><InternalNotes><![CDATA[]]></InternalNotes><NotesToCustomer><![CDATA[]]></NotesToCustomer><NotifyCustomer>true</NotifyCustomer><LabelCreateDate>04/02/2019 07:00</LabelCreateDate><ShipDate>04/02/2019</ShipDate><Carrier>USPS</Carrier><Service>USPS Priority Mail</Service><TrackingNumber>9405511699000920008998</TrackingNumber><ShippingCost>10.6</ShippingCost><CustomField1>welcome</CustomField1><CustomField2 /><CustomField3 /><Recipient><Name>Melinda Manci</Name><Company /><Address1>20 WILLOW HILL DR</Address1><Address2 /><City>SHERMAN</City><State>IL</State><PostalCode>62684-9769</PostalCode><Country>US</Country></Recipient><Items><Item><Name>Cinnamon-Pecan Granola, 1 Pound</Name><SKU>Granola</SKU><LineItemID>2873</LineItemID><Quantity>4</Quantity></Item><Item><Name>Small Cinnamon-Pecan Granola Snack Pack</Name><SKU>Granola-1-1</SKU><LineItemID>2874</LineItemID><Quantity>1</Quantity></Item></Items></ShipNotice>
+04-02-2019 @ 09:58:16 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Cinnamon-Pecan Granola, 1 Pound
+    [SKU] => Granola
+    [LineItemID] => 2873
+    [Quantity] => 4
+)
+
+04-02-2019 @ 09:58:16 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Small Cinnamon-Pecan Granola Snack Pack
+    [SKU] => Granola-1-1
+    [LineItemID] => 2874
+    [Quantity] => 1
+)
+
+04-02-2019 @ 09:58:16 - Shipped 5 out of 5 items in order 1800
+04-02-2019 @ 09:58:18 - Updated order 1800 to status wc-completed
+04-02-2019 @ 10:06:34 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=shipnotify&order_number=1795&carrier=USPS&service=USPS+Priority+Mail&tracking_number=9405511699000920865805&capture=true
+04-02-2019 @ 10:06:34 - ShipNotify XML: <?xml version="1.0" encoding="UTF-8"?><ShipNotice><OrderNumber>1795</OrderNumber><OrderID>1795</OrderID><CustomerCode>davenportdonna3@gmail.com</CustomerCode><CustomerNotes><![CDATA[]]></CustomerNotes><InternalNotes><![CDATA[]]></InternalNotes><NotesToCustomer><![CDATA[]]></NotesToCustomer><NotifyCustomer>true</NotifyCustomer><LabelCreateDate>04/02/2019 07:00</LabelCreateDate><ShipDate>04/02/2019</ShipDate><Carrier>USPS</Carrier><Service>USPS Priority Mail</Service><TrackingNumber>9405511699000920865805</TrackingNumber><ShippingCost>8.07</ShippingCost><CustomField1 /><CustomField2 /><CustomField3 /><Recipient><Name>Donna Davenport</Name><Company /><Address1>4471 TIMBERLAND CIR SE</Address1><Address2 /><City>ACWORTH</City><State>GA</State><PostalCode>30102-3076</PostalCode><Country>US</Country></Recipient><Items><Item><Name>Small Cinnamon-Pecan Granola Snack Pack</Name><SKU>Granola-1-1</SKU><LineItemID>2858</LineItemID><Quantity>3</Quantity></Item></Items></ShipNotice>
+04-02-2019 @ 10:06:34 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Small Cinnamon-Pecan Granola Snack Pack
+    [SKU] => Granola-1-1
+    [LineItemID] => 2858
+    [Quantity] => 3
+)
+
+04-02-2019 @ 10:06:34 - Shipped 3 out of 3 items in order 1795
+04-02-2019 @ 10:06:36 - Updated order 1795 to status wc-completed
+04-02-2019 @ 10:09:09 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=shipnotify&order_number=1801&carrier=USPS&service=USPS+Priority+Mail&tracking_number=9405511699000920332390&capture=true
+04-02-2019 @ 10:09:09 - ShipNotify XML: <?xml version="1.0" encoding="UTF-8"?><ShipNotice><OrderNumber>1801</OrderNumber><OrderID>1801</OrderID><CustomerCode>pagnone@unfcu.com</CustomerCode><CustomerNotes><![CDATA[]]></CustomerNotes><InternalNotes><![CDATA[]]></InternalNotes><NotesToCustomer><![CDATA[]]></NotesToCustomer><NotifyCustomer>true</NotifyCustomer><LabelCreateDate>04/02/2019 07:00</LabelCreateDate><ShipDate>04/02/2019</ShipDate><Carrier>USPS</Carrier><Service>USPS Priority Mail</Service><TrackingNumber>9405511699000920332390</TrackingNumber><ShippingCost>7.8</ShippingCost><CustomField1 /><CustomField2 /><CustomField3 /><Recipient><Name>Pamela Agnone</Name><Company /><Address1>110 THORNWOOD RD</Address1><Address2 /><City>MASSAPEQUA PARK</City><State>NY</State><PostalCode>11762-4023</PostalCode><Country>US</Country></Recipient><Items><Item><Name>Small Cinnamon-Pecan Granola Snack Pack</Name><SKU>Granola-1-1</SKU><LineItemID>2877</LineItemID><Quantity>1</Quantity></Item><Item><Name>Cinnamon-Pecan Granola, 1 Pound</Name><SKU>Granola</SKU><LineItemID>2878</LineItemID><Quantity>1</Quantity></Item></Items></ShipNotice>
+04-02-2019 @ 10:09:09 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Small Cinnamon-Pecan Granola Snack Pack
+    [SKU] => Granola-1-1
+    [LineItemID] => 2877
+    [Quantity] => 1
+)
+
+04-02-2019 @ 10:09:10 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Cinnamon-Pecan Granola, 1 Pound
+    [SKU] => Granola
+    [LineItemID] => 2878
+    [Quantity] => 1
+)
+
+04-02-2019 @ 10:09:10 - Shipped 2 out of 2 items in order 1801
+04-02-2019 @ 10:09:12 - Updated order 1801 to status wc-completed

@@ -1,0 +1,342 @@
+"Order ID","Order Key",Title,"Order Status","Billing First Name","Billing Last Name","Product Name",Quantity,"Item Cost","Item Total","Total Discount Amount","Coupons Used","Shipping Cost"
+231,wc_order_568c39252a86b,"Order - January 5, 2016 @ 09:44 PM",wc-pending,Cecily,Alvarez,"Variation #179 of TWB Chocolate Chip Cookies &#8211; 1 Dozen (12)",7,18.00,126,0,,0
+255,wc_order_56952e3201208,"Order - January 12, 2016 @ 04:48 PM",wc-processing,Elizabeth,Scott,"Variation #46 of TWB &#8211; Granola and Cookies",1,30.00,30,0,,9.97
+256,wc_order_56952ece5066f,"Order - January 12, 2016 @ 04:52 PM",wc-processing,sheila,reardon,"Variation #124 of TWB Cinnamon-Pecan Granola &#8211; 1 Pound",4,12.00,48,0,,8.1
+257,wc_order_569661111360c,"Order - January 13, 2016 @ 02:37 PM",wc-processing,Michelle,Myers,"Variation #46 of TWB &#8211; Granola and Cookies",1,30.00,30,0,,0
+258,wc_order_5697be004f57d,"Order - January 14, 2016 @ 03:25 PM",wc-processing,Lucresia,Davis,"Variation #103 of TWB &#8211; Chocolate Chip Cookies &#8211; Boxed",1,54.00,54,0,,0
+259,wc_order_569a6b48084d5,"Order - January 16, 2016 @ 04:09 PM",wc-pending,Lynn,Yardley,"Variation #124 of TWB Cinnamon-Pecan Granola &#8211; 1 Pound",2,12.00,24,0,,5.32
+260,wc_order_569cefa7db966,"Order - January 18, 2016 @ 02:00 PM",wc-processing,Eva,Robins,"Baseball Cap",1,25.00,25,0,,6.01
+260,wc_order_569cefa7db966,"Order - January 18, 2016 @ 02:00 PM",wc-processing,Eva,Robins,"Variation #179 of TWB Chocolate Chip Cookies &#8211; 1 Dozen (12)",1,18.00,18,0,,6.01
+261,wc_order_56a67252c8ccb,"Order - January 25, 2016 @ 07:09 PM",wc-processing,Carolyn,Holland,"Variation #179 of TWB Chocolate Chip Cookies &#8211; 1 Dozen (12)",1,18.00,18,0,,6.2
+263,wc_order_56ad6bc467de5,"Order - January 31, 2016 @ 02:04 AM",wc-pending,"Brandon Augustine",Augustine,"Variation #124 of TWB Cinnamon-Pecan Granola &#8211; 1 Pound",2,12.00,24,0,,8.15
+267,wc_order_56ba6085886b7,"Order - February 9, 2016 @ 09:58 PM",wc-processing,Andrew,Krakowski,"Variation #179 of TWB Chocolate Chip Cookies &#8211; 1 Dozen (12)",2,18.00,36,0,,0
+273,wc_order_56c9c87f31d14,"Order - February 21, 2016 @ 02:28 PM",wc-processing,Cheryl,"Hiles Jugovic","Variation #124 of TWB Cinnamon-Pecan Granola &#8211; 1 Pound",2,12.00,24,0,,13.45
+277,wc_order_56d3425593e69,"Order - February 28, 2016 @ 06:56 PM",wc-processing,Margot,Ellis,"Variation #248 of Fruitcycle &#8211; Cinnamon Apple Chips &#8211; Snack Pack",2,10.00,20,0,,9.50
+277,wc_order_56d3425593e69,"Order - February 28, 2016 @ 06:56 PM",wc-processing,Margot,Ellis,"Variation #238 of Fruitcycle &#8211; Cinnamon Apple Chips",2,7.00,14,0,,9.50
+278,wc_order_56d4a19f11707,"Order - February 29, 2016 @ 07:53 PM",wc-processing,Anne,Marks,"Variation #179 of TWB Chocolate Chip Cookies &#8211; 1 Dozen (12)",1,18.00,18,0,,0.00
+280,wc_order_56e1b13752a0e,"Order - March 10, 2016 @ 05:39 PM",wc-processing,Edward,Fickus,"Variation #179 of TWB Chocolate Chip Cookies &#8211; 1 Dozen (12)",2,18.00,36,0,,12.19
+280,wc_order_56e1b13752a0e,"Order - March 10, 2016 @ 05:39 PM",wc-processing,Edward,Fickus,"Variation #254 of Fruitcycle &#8211; Trail Mix",1,3.75,3.75,0,,12.19
+280,wc_order_56e1b13752a0e,"Order - March 10, 2016 @ 05:39 PM",wc-processing,Edward,Fickus,"Variation #251 of Fruitcycle &#8211; Super Kale Fragilistic Chips",1,5.00,5,0,,12.19
+281,wc_order_56e20a26a88ed,"Order - March 11, 2016 @ 12:02 AM",wc-processing,Stephanie,Wright,"Variation #272 of Fruitcycle &#8211; Sample Pack",1,40.00,40,0,,0.00
+283,wc_order_56e468111e9be,"Order - March 12, 2016 @ 07:05 PM",wc-processing,Katie,Tagliaferri,"Variation #124 of TWB Cinnamon-Pecan Granola &#8211; 1 Pound",2,12.00,24,0,,7.00
+284,wc_order_56e701eecd28e,"Order - March 14, 2016 @ 06:26 PM",wc-processing,Lisa,Fuller,"Variation #179 of TWB Chocolate Chip Cookies &#8211; 1 Dozen (12)",2,18.00,36,0,,0.00
+285,wc_order_56f07a6c1e340,"Order - March 21, 2016 @ 10:53 PM",wc-processing,Kim,Montoya,"Variation #124 of TWB Cinnamon-Pecan Granola &#8211; 1 Pound",2,12.00,24,0,,7.00
+288,wc_order_56fa7d3b2e633,"Order - March 29, 2016 @ 01:07 PM",wc-processing,Melissa,Riddy,"Variation #254 of Fruitcycle &#8211; Trail Mix",1,3.75,3.75,0,,0.00
+288,wc_order_56fa7d3b2e633,"Order - March 29, 2016 @ 01:07 PM",wc-processing,Melissa,Riddy,"Variation #179 of TWB Chocolate Chip Cookies &#8211; 1 Dozen (12)",1,18.00,18,0,,0.00
+288,wc_order_56fa7d3b2e633,"Order - March 29, 2016 @ 01:07 PM",wc-processing,Melissa,Riddy,"Variation #251 of Fruitcycle &#8211; Super Kale Fragilistic Chips",1,5.00,5,0,,0.00
+288,wc_order_56fa7d3b2e633,"Order - March 29, 2016 @ 01:07 PM",wc-processing,Melissa,Riddy,"Variation #248 of Fruitcycle &#8211; Cinnamon Apple Chips &#8211; Snack Pack",1,10.00,10,0,,0.00
+290,wc_order_570ae9017f529,"Order - April 11, 2016 @ 12:00 AM",wc-processing,Cynthia,Major,"Variation #124 of TWB Cinnamon-Pecan Granola &#8211; 1 Pound",1,12.00,12,0,,0.00
+291,wc_order_570bfc34e8712,"Order - April 11, 2016 @ 07:41 PM",wc-processing,Erin,DeGeorge,"Variation #179 of TWB Chocolate Chip Cookies &#8211; 1 Dozen (12)",1,18.00,18,0,,0.00
+292,wc_order_570d5628d8792,"Order - April 12, 2016 @ 08:11 PM",wc-processing,William,Howard,"Variation #254 of Fruitcycle &#8211; Trail Mix",2,3.75,7.5,0,,0.00
+292,wc_order_570d5628d8792,"Order - April 12, 2016 @ 08:11 PM",wc-processing,William,Howard,"Variation #238 of Fruitcycle &#8211; Cinnamon Apple Chips",3,7.00,21,0,,0.00
+293,wc_order_570e2d34d0a2c,"Order - April 13, 2016 @ 11:28 AM",wc-processing,Julie,Shaffer,"Variation #124 of TWB Cinnamon-Pecan Granola &#8211; 1 Pound",3,12.00,36,0,,0.00
+294,wc_order_570e5d4e7547e,"Order - April 13, 2016 @ 02:55 PM",wc-processing,Roslyn,Washington,"Variation #103 of TWB &#8211; Chocolate Chip Cookies &#8211; Boxed",1,54.00,54,0,,0.00
+294,wc_order_570e5d4e7547e,"Order - April 13, 2016 @ 02:55 PM",wc-processing,Roslyn,Washington,"Variation #179 of TWB Chocolate Chip Cookies &#8211; 1 Dozen (12)",1,18.00,18,0,,0.00
+295,wc_order_5710e102a4b3c,"Order - April 15, 2016 @ 12:46 PM",wc-processing,Nancy,Beede,"Variation #124 of TWB Cinnamon-Pecan Granola &#8211; 1 Pound",1,12.00,12,0,,8.50
+295,wc_order_5710e102a4b3c,"Order - April 15, 2016 @ 12:46 PM",wc-processing,Nancy,Beede,"Variation #179 of TWB Chocolate Chip Cookies &#8211; 1 Dozen (12)",1,18.00,18,0,,8.50
+296,wc_order_5710ea282f610,"Order - April 15, 2016 @ 01:19 PM",wc-processing,Kathleen,OConnor,"Variation #254 of Fruitcycle &#8211; Trail Mix",1,3.75,3.75,0,,6.00
+296,wc_order_5710ea282f610,"Order - April 15, 2016 @ 01:19 PM",wc-processing,Kathleen,OConnor,"Variation #124 of TWB Cinnamon-Pecan Granola &#8211; 1 Pound",1,12.00,12,0,,6.00
+297,wc_order_571108faef021,"Order - April 15, 2016 @ 03:41 PM",wc-cancelled,James,Leitsch,"Variation #46 of TWB &#8211; Granola and Cookies",1,30.00,30,0,,8.50
+298,wc_order_57110b12a77c1,"Order - April 15, 2016 @ 03:40 PM",wc-processing,Ramona,Gonzales,"Variation #46 of TWB &#8211; Granola and Cookies",1,30.00,30,0,,8.50
+299,wc_order_5711137782c8f,"Order - April 15, 2016 @ 04:14 PM",wc-pending,James,Leitsch,"Variation #46 of TWB &#8211; Granola and Cookies",1,30.00,30,0,,8.50
+300,wc_order_57111732aaa7e,"Order - April 15, 2016 @ 04:33 PM",wc-processing,Eileen,Casler,"Variation #254 of Fruitcycle &#8211; Trail Mix",4,3.75,15,0,,6.00
+301,wc_order_571118f8dc835,"Order - April 15, 2016 @ 04:38 PM",wc-processing,Dinah,Lewis,"Variation #179 of TWB Chocolate Chip Cookies &#8211; 1 Dozen (12)",6,18.00,108,0,,0.00
+302,wc_order_57112d0bc80cb,"Order - April 15, 2016 @ 06:05 PM",wc-processing,Kelly,Gillen,"Variation #272 of Fruitcycle &#8211; Sample Pack",1,40.00,40,0,,17.25
+302,wc_order_57112d0bc80cb,"Order - April 15, 2016 @ 06:05 PM",wc-processing,Kelly,Gillen,"Baseball Cap",1,25.00,25,0,,17.25
+303,wc_order_571138895ad1f,"Order - April 15, 2016 @ 06:53 PM",wc-processing,Laura,Stockton,"Variation #179 of TWB Chocolate Chip Cookies &#8211; 1 Dozen (12)",2,18.00,36,0,,0.00
+305,wc_order_571163877bb44,"Order - April 15, 2016 @ 09:58 PM",wc-processing,Gil,Porat,"Variation #46 of TWB &#8211; Granola and Cookies",1,30.00,30,0,,8.50
+306,wc_order_5711ef38be433,"Order - April 16, 2016 @ 07:55 AM",wc-processing,Jaime,Karns,"Variation #272 of Fruitcycle &#8211; Sample Pack",1,40.00,40,0,,11.00
+307,wc_order_571239bf15c09,"Order - April 16, 2016 @ 01:10 PM",wc-processing,Joan,Vanderveen,"Variation #179 of TWB Chocolate Chip Cookies &#8211; 1 Dozen (12)",1,18.00,18,0,,0.00
+307,wc_order_571239bf15c09,"Order - April 16, 2016 @ 01:10 PM",wc-processing,Joan,Vanderveen,"Baseball Cap",1,25.00,25,0,,0.00
+309,wc_order_57129bddc8f82,"Order - April 16, 2016 @ 08:10 PM",wc-processing,Donta,Baker,"Variation #179 of TWB Chocolate Chip Cookies &#8211; 1 Dozen (12)",1,18.00,18,0,,6.00
+310,wc_order_571382ee88c52,"Order - April 17, 2016 @ 12:36 PM",wc-processing,Lisa,Meehan,"Variation #248 of Fruitcycle &#8211; Cinnamon Apple Chips &#8211; Snack Pack",1,10.00,10,0,,6.50
+310,wc_order_571382ee88c52,"Order - April 17, 2016 @ 12:36 PM",wc-processing,Lisa,Meehan,"Variation #124 of TWB Cinnamon-Pecan Granola &#8211; 1 Pound",1,12.00,12,0,,6.50
+312,wc_order_57153b1410850,"Order - April 18, 2016 @ 07:52 PM",wc-processing,Michelle,Myers,"Variation #272 of Fruitcycle &#8211; Sample Pack",1,40.00,40,0,,0.00
+315,wc_order_5715685f7338f,"Order - April 18, 2016 @ 11:06 PM",wc-pending,Stephanie,Wright,"Variation #124 of TWB Cinnamon-Pecan Granola &#8211; 1 Pound",1,12.00,12,0,,0.00
+316,wc_order_57159ecf94286,"Order - April 19, 2016 @ 02:59 AM",wc-processing,Julia,Ray,"Sample Pack",1,40.00,40,0,,11.00
+317,wc_order_57164ffb4ae23,"Order - April 19, 2016 @ 04:37 PM",wc-processing,Kristen,Mueller,"Variation #248 of Fruitcycle &#8211; Cinnamon Apple Chips &#8211; Snack Pack",1,10.00,10,0,,6.00
+317,wc_order_57164ffb4ae23,"Order - April 19, 2016 @ 04:37 PM",wc-processing,Kristen,Mueller,"Variation #251 of Fruitcycle &#8211; Super Kale Fragilistic Chips",1,5.00,5,0,,6.00
+318,wc_order_5716573c37933,"Order - April 19, 2016 @ 04:33 PM",wc-processing,Stephanie,Abbott,"Variation #254 of Fruitcycle &#8211; Trail Mix",1,3.75,3.75,0,,9.44
+318,wc_order_5716573c37933,"Order - April 19, 2016 @ 04:33 PM",wc-processing,Stephanie,Abbott,"Variation #46 of TWB &#8211; Granola and Cookies",1,30.00,30,0,,9.44
+321,wc_order_57169157c19a5,"Order - April 19, 2016 @ 08:15 PM",wc-processing,Michele,Zuck,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,6.00
+322,wc_order_5716f5d110bf4,"Order - April 20, 2016 @ 03:24 AM",wc-cancelled,Wallace,Green,"Cookie/Granola Combo",1,30.00,30,0,,8.50
+323,wc_order_5716f6ace9226,"Order - April 20, 2016 @ 03:28 AM",wc-processing,Wallace,Green,"Cookie/Granola Combo",1,30.00,30,0,,8.50
+324,wc_order_57177c75dacdb,"Order - April 20, 2016 @ 12:56 PM",wc-processing,Michelle,Myers,"Trail Mix",10,3.75,37.5,0,,0.00
+324,wc_order_57177c75dacdb,"Order - April 20, 2016 @ 12:56 PM",wc-processing,Michelle,Myers,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,0.00
+324,wc_order_57177c75dacdb,"Order - April 20, 2016 @ 12:56 PM",wc-processing,Michelle,Myers,"Sample Pack",1,40.00,40,0,,0.00
+325,wc_order_57177d496a339,"Order - April 20, 2016 @ 12:59 PM",wc-processing,Michelle,Myers,"Sample Pack",1,40.00,40,0,,0.00
+325,wc_order_57177d496a339,"Order - April 20, 2016 @ 12:59 PM",wc-processing,Michelle,Myers,"Sample Pack",1,40.00,40,0,,0.00
+326,wc_order_57177d8ac3150,"Order - April 20, 2016 @ 01:00 PM",wc-processing,Michelle,Myers,"Sample Pack",1,40.00,40,0,,0.00
+327,wc_order_57177e0f3eaa5,"Order - April 20, 2016 @ 01:03 PM",wc-processing,Michelle,Myers,"Sample Pack",1,40.00,40,0,,0.00
+328,wc_order_571ed5a731f35,"Order - April 26, 2016 @ 02:43 AM",wc-processing,Gillian,Economou,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,6.00
+329,wc_order_571f8ec7cc405,"Order - April 26, 2016 @ 03:54 PM",wc-processing,Elizabeth,Weisbond,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,6.00
+330,wc_order_5720d51bc985d,"Order - April 27, 2016 @ 03:07 PM",wc-processing,Cindy,Lasher,"Sample Pack",1,40.00,40,0,,11.00
+332,wc_order_572148cb8c924,"Order - April 27, 2016 @ 11:22 PM",wc-processing,Robert,Marcy,"Trail Mix",12,3.75,45,0,,12.25
+333,wc_order_57236cd99a9ea,"Order - April 29, 2016 @ 02:17 PM",wc-processing,Daniel,Messeca,"Sample Pack",2,40.00,80,0,,0.00
+335,wc_order_5724fd90a55db,"Order - April 30, 2016 @ 06:47 PM",wc-processing,Katie,Tagliaferri,"Cinnamon-Pecan Granola, 1 Pound",4,12.00,48,0,,13.00
+336,wc_order_57260be669ec0,"Order - May 1, 2016 @ 02:01 PM",wc-cancelled,John,Samuelson,"Sample Pack",1,40.00,40,0,,11.00
+337,wc_order_57260c9481fea,"Order - May 1, 2016 @ 02:07 PM",wc-processing,John,Samuelson,"Sample Pack",1,40.00,40,0,,11.00
+338,wc_order_572678857b3ee,"Order - May 1, 2016 @ 09:44 PM",wc-processing,Barbara,D'Antoni,"Fruitcycle - Super Kale Fragilistic Chips",1,5.00,5,0,,6.00
+338,wc_order_572678857b3ee,"Order - May 1, 2016 @ 09:44 PM",wc-processing,Barbara,D'Antoni,"Cinnamon-Pecan Granola, 1 Pound",1,12.00,12,0,,6.00
+339,wc_order_572a338d7c842,"Order - May 4, 2016 @ 05:38 PM",wc-pending,George,Brown,"Cinnamon-Pecan Granola, 1 Pound",2,12.00,24,0,,8.88
+339,wc_order_572a338d7c842,"Order - May 4, 2016 @ 05:38 PM",wc-pending,George,Brown,"Trail Mix",2,3.75,7.5,0,,8.88
+340,wc_order_572b27b9260d9,"Order - May 5, 2016 @ 11:02 AM",wc-processing,Beatrice,Spadacini,"Cinnamon-Pecan Granola, 1 Pound",2,12.00,24,0,,7.00
+341,wc_order_572d4f7da750b,"Order - May 7, 2016 @ 02:15 AM",wc-processing,Kimberly-Anne,Boyer,"Fruitcycle - Super Kale Fragilistic Chips",6,5.00,30,0,,0.00
+341,wc_order_572d4f7da750b,"Order - May 7, 2016 @ 02:15 AM",wc-processing,Kimberly-Anne,Boyer,"Cinnamon Apple Chips",1,7.00,7,0,,0.00
+342,wc_order_573dd865f3d1b,"Order - May 20, 2016 @ 03:04 PM",wc-processing,Sean,Currigan,"Sample Pack",2,40.00,80,0,,21.00
+343,wc_order_57466437f2dca,"Order - May 26, 2016 @ 02:50 AM",wc-processing,Laura,McDaniel,"Cinnamon-Pecan Granola, 1 Pound",2,12.00,24,0,,7.00
+345,wc_order_57599efa17522,"Order - June 9, 2016 @ 04:56 PM",wc-processing,Mary,Atwood,"Cinnamon Apple Chips - Snack Pack",1,10.00,10,0,,11.00
+345,wc_order_57599efa17522,"Order - June 9, 2016 @ 04:56 PM",wc-processing,Mary,Atwood,"Cookie/Granola Combo",1,30.00,30,0,,11.00
+346,wc_order_5761e343de3a2,"Order - June 15, 2016 @ 11:24 PM",wc-processing,Wanda,Schmidt,"Sample Pack",1,40.00,40,0,,11.00
+347,wc_order_5762d2f148059,"Order - June 16, 2016 @ 04:27 PM",wc-processing,Wanda,Schmidt,"Sample Pack",1,40.00,40,0,,11.00
+350,wc_order_577704ba936bf,"Order - July 2, 2016 @ 12:06 AM",wc-processing,susan,schneider,"Sample Pack",1,35.00,35,0,,9.75
+352,wc_order_5783cecdc7a7e,"Order - July 11, 2016 @ 04:53 PM",wc-processing,Shannon,Chawk,"Cinnamon Apple Chips - Bonus Box",1,54.00,54,0,,0.00
+353,wc_order_5784e7a7b7688,"Order - July 12, 2016 @ 12:51 PM",wc-processing,Melody,Fitzgerald,"Cinnamon Apple Chips - Bonus Box",2,54.00,108,0,,0.00
+354,wc_order_579632186fadd,"Order - July 25, 2016 @ 03:38 PM",wc-processing,Regan,Ralph,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,6.00
+355,wc_order_57965fef9daec,"Order - July 25, 2016 @ 06:54 PM",wc-processing,Regan,Ralph,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,6.00
+356,wc_order_5797806f8286c,"Order - July 26, 2016 @ 03:24 PM",wc-processing,Stephanie,Abbott,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,8.31
+356,wc_order_5797806f8286c,"Order - July 26, 2016 @ 03:24 PM",wc-processing,Stephanie,Abbott,"Trail Mix",3,3.75,11.25,0,,8.31
+357,wc_order_579bbde848c39,"Order - July 29, 2016 @ 08:36 PM",wc-processing,Rejeanne,Nicholson,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,6.00
+358,wc_order_579d0a1fc16e3,"Order - July 30, 2016 @ 08:12 PM",wc-pending,Maribeth,Bersani,"Donation - $500 - Cookie Taster",1,500.00,500,0,,126.00
+359,wc_order_579eb622d6deb,"Order - August 1, 2016 @ 02:39 AM",wc-processing,Eduarda,Bossers,"Sample Pack",1,35.00,35,0,,9.75
+360,wc_order_579f9893a67ff,"Order - August 1, 2016 @ 06:44 PM",wc-pending,Jessica,Pouder,"Sample Pack",1,35.00,35,0,,9.75
+361,wc_order_579f9af479633,"Order - August 1, 2016 @ 06:56 PM",wc-processing,Randy,Riccardo,"Cinnamon Apple Chips - Bonus Box",1,54.00,54,0,,20.50
+361,wc_order_579f9af479633,"Order - August 1, 2016 @ 06:56 PM",wc-processing,Randy,Riccardo,"Cinnamon-Pecan Granola, 1 Pound",2,12.00,24,0,,20.50
+362,wc_order_579fff8d751b1,"Order - August 2, 2016 @ 02:05 AM",wc-processing,Karen,Weber,"Cinnamon Apple Chips - Snack Pack",1,10.00,10,0,,12.25
+362,wc_order_579fff8d751b1,"Order - August 2, 2016 @ 02:05 AM",wc-processing,Karen,Weber,"Sample Pack",1,35.00,35,0,,12.25
+363,wc_order_57a6558c15695,"Order - August 6, 2016 @ 09:25 PM",wc-processing,Suzanne,Loungeway,"Sample Pack",1,35.00,35,0,,9.75
+364,wc_order_57afea09637de,"Order - August 14, 2016 @ 03:49 AM",wc-processing,Jason,Smith,"Sample Pack",1,35.00,35,0,,9.75
+365,wc_order_57b0767dee114,"Order - August 14, 2016 @ 01:48 PM",wc-processing,KYM,MULLINS,"Sample Pack",2,35.00,70,0,,18.50
+366,wc_order_57b20f63022a0,"Order - August 15, 2016 @ 06:55 PM",wc-processing,Lea,Gooneratne,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,6.00
+368,wc_order_57bc793f7888f,"Order - August 23, 2016 @ 04:27 PM",wc-processing,nick,triandos,"Cinnamon-Pecan Granola, 1 Pound",3,12.00,36,0,,0.00
+368,wc_order_57bc793f7888f,"Order - August 23, 2016 @ 04:27 PM",wc-processing,nick,triandos,"Sample Pack",1,35.00,35,0,,0.00
+369,wc_order_57bd9f5841280,"Order - August 24, 2016 @ 01:21 PM",wc-processing,Karen,Tekleberhan,"Sample Pack",2,35.00,70,0,,0.00
+369,wc_order_57bd9f5841280,"Order - August 24, 2016 @ 01:21 PM",wc-processing,Karen,Tekleberhan,"Cookie/Granola Combo",1,30.00,30,0,,0.00
+370,wc_order_57c71923a36e8,"Order - August 31, 2016 @ 05:53 PM",wc-processing,Catherine,Burton,"Sample Pack",1,35.00,35,0,,9.75
+371,wc_order_57c99157af8c2,"Order - September 2, 2016 @ 02:55 PM",wc-processing,Carole,Augustine,"Cinnamon Apple Chips - Bonus Box",1,54.00,54,0,,14.50
+372,wc_order_57cb47661d291,"Order - September 3, 2016 @ 09:58 PM",wc-processing,Tiffany,Brown,"Cinnamon-Pecan Granola, 1 Pound",3,12.00,36,0,,10.00
+373,wc_order_57ccd771b2876,"Order - September 5, 2016 @ 02:25 AM",wc-processing,KYM,MULLINS,"Cinnamon-Pecan Granola, 1 Pound",5,12.00,60,0,,18.69
+373,wc_order_57ccd771b2876,"Order - September 5, 2016 @ 02:25 AM",wc-processing,KYM,MULLINS,"Trail Mix",1,3.75,3.75,0,,18.69
+373,wc_order_57ccd771b2876,"Order - September 5, 2016 @ 02:25 AM",wc-processing,KYM,MULLINS,"Cinnamon Apple Chips",1,7.00,7,0,,18.69
+374,wc_order_57cd77bded023,"Order - September 5, 2016 @ 01:50 PM",wc-processing,LuAnn,Williams-Moore,"Cookie/Granola Combo",1,30.00,30,0,,12.88
+374,wc_order_57cd77bded023,"Order - September 5, 2016 @ 01:50 PM",wc-processing,LuAnn,Williams-Moore,"Trail Mix",2,3.75,7.5,0,,12.88
+374,wc_order_57cd77bded023,"Order - September 5, 2016 @ 01:50 PM",wc-processing,LuAnn,Williams-Moore,"Cinnamon Apple Chips - Snack Pack",1,10.00,10,0,,12.88
+375,wc_order_57cef748dde56,"Order - September 6, 2016 @ 05:06 PM",wc-processing,Randy,Riccardo,"Cinnamon-Pecan Granola, 1 Pound",1,12.00,12,0,,15.88
+375,wc_order_57cef748dde56,"Order - September 6, 2016 @ 05:06 PM",wc-processing,Randy,Riccardo,"Trail Mix",10,3.75,37.5,0,,15.88
+375,wc_order_57cef748dde56,"Order - September 6, 2016 @ 05:06 PM",wc-processing,Randy,Riccardo,"Cinnamon Apple Chips - Snack Pack",1,10.00,10,0,,15.88
+376,wc_order_57d444b6b285c,"Order - September 10, 2016 @ 05:37 PM",wc-processing,Jason,Smith,"Chocolate Chip Cookies - 1 Dozen",2,18.00,36,0,,10.00
+377,wc_order_57dc0159812d1,"Order - September 16, 2016 @ 02:28 PM",wc-processing,"Mary Catherine",Gibbs,"Sample Pack",1,35.00,35,0,,15.75
+377,wc_order_57dc0159812d1,"Order - September 16, 2016 @ 02:28 PM",wc-processing,"Mary Catherine",Gibbs,"Cinnamon-Pecan Granola, 1 Pound",2,12.00,24,0,,15.75
+378,wc_order_57dd740f3fe13,"Order - September 17, 2016 @ 04:49 PM",wc-processing,Kristyna,Meyer,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,0.00
+379,wc_order_57df3ea123bd3,"Order - September 19, 2016 @ 01:25 AM",wc-pending,Jeanne,Gaug,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,6.00
+380,wc_order_57e081940da42,"Order - September 20, 2016 @ 12:23 AM",wc-processing,Amy,Bertsch,"Cookie/Granola Combo",1,30.00,30,0,,0.00
+381,wc_order_57e1be6221142,"Order - September 20, 2016 @ 10:56 PM",wc-processing,LuAnn,Williams-Moore,"Cinnamon-Pecan Granola, 1 Pound",2,12.00,24,0,,7.00
+382,wc_order_57e3dd071781a,"Order - September 22, 2016 @ 01:32 PM",wc-processing,Stacy,Morris,"Cookie/Granola Combo",1,30.00,30,0,,8.50
+383,wc_order_57e4406b564b5,"Order - September 22, 2016 @ 08:39 PM",wc-processing,Dawn,Bauman,"Chocolate Chip Cookies - 1 Dozen",6,18.00,108,0,,0.00
+384,wc_order_57ec783d51ed1,"Order - September 29, 2016 @ 02:11 AM",wc-pending,Jeanne,Gaug,"Cinnamon-Pecan Granola, 1 Pound",2,12.00,24,0,,11.50
+384,wc_order_57ec783d51ed1,"Order - September 29, 2016 @ 02:11 AM",wc-pending,Jeanne,Gaug,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,11.50
+385,wc_order_57f074cf7c50f,"Order - October 2, 2016 @ 02:47 AM",wc-processing,danielle,bohall,"Cinnamon Apple Chips",2,7.00,14,0,,28.50
+385,wc_order_57f074cf7c50f,"Order - October 2, 2016 @ 02:47 AM",wc-processing,danielle,bohall,"Cinnamon-Pecan Granola, 1 Pound",8,12.00,96,0,,28.50
+386,wc_order_57fa9ed911ff4,"Order - October 9, 2016 @ 08:02 PM",wc-processing,Cecilia,Bessee,"Chocolate Chip Cookies - 1 Dozen",2,18.00,36,0,,10.00
+387,wc_order_580024035a86a,"Order - October 14, 2016 @ 12:18 AM",wc-processing,Lori,Dando,"Cinnamon Apple Chips",1,7.00,7,0,,6.00
+387,wc_order_580024035a86a,"Order - October 14, 2016 @ 12:18 AM",wc-processing,Lori,Dando,"Cinnamon-Pecan Granola, 1 Pound",1,12.00,12,0,,6.00
+388,wc_order_58076b25d91b4,"Order - October 19, 2016 @ 12:47 PM",wc-processing,Frederick,Gottschalk,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,6.00
+389,wc_order_580a88698d5f4,"Order - October 21, 2016 @ 09:28 PM",wc-pending,Dan,Carlton,"Cookie/Granola Combo",1,30.00,30,0,,8.50
+390,wc_order_580b997f48fa2,"Order - October 22, 2016 @ 04:53 PM",wc-pending,Emma,Simson,"Sample Pack",1,35.00,35,0,,9.75
+391,wc_order_580d175a534cb,"Order - October 23, 2016 @ 08:02 PM",wc-processing,Amy,Bertsch,"Cinnamon-Pecan Granola, 1 Pound",1,12.00,12,0,,0.00
+391,wc_order_580d175a534cb,"Order - October 23, 2016 @ 08:02 PM",wc-processing,Amy,Bertsch,"Sample Pack",1,35.00,35,0,,0.00
+392,wc_order_580e5ad7defa5,"Order - October 24, 2016 @ 07:02 PM",wc-pending,Carina,Giorgi,"Cinnamon-Pecan Granola, 1 Pound",2,12.00,24,0,,7.00
+393,wc_order_580e7e0517ddd,"Order - October 24, 2016 @ 09:34 PM",wc-processing,Elizabeth,Bennett,"Cookie/Granola Combo",1,30.00,30,0,,8.50
+394,wc_order_580f957411cee,"Order - October 25, 2016 @ 05:26 PM",wc-processing,LuAnn,Williams-Moore,"Cinnamon-Pecan Granola, 1 Pound",2,12.00,24,0,,7.00
+395,wc_order_581486c5c1dbf,"Order - October 29, 2016 @ 11:24 AM",wc-processing,Frederick,Gottschalk,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,6.00
+396,wc_order_5814cf62cedea,"Order - October 29, 2016 @ 05:09 PM",wc-processing,Astrid,Serruto,"Cinnamon-Pecan Granola, 1 Pound",3,12.00,36,0,,10.00
+397,wc_order_5817696fda808,"Order - October 31, 2016 @ 03:56 PM",wc-processing,Becky,Wexler,"Cinnamon-Pecan Granola, 1 Pound",1,12.00,12,0,,6.00
+398,wc_order_58177e79d357b,"Order - October 31, 2016 @ 05:26 PM",wc-processing,"Mary Lee",Borislow,"Trail Mix",1,3.75,3.75,0,,10.69
+398,wc_order_58177e79d357b,"Order - October 31, 2016 @ 05:26 PM",wc-processing,"Mary Lee",Borislow,"Sample Pack",1,35.00,35,0,,10.69
+399,wc_order_58193815b1e77,"Order - November 2, 2016 @ 12:50 AM",wc-processing,Stephanie,Mikos,"Cookie/Granola Combo",1,30.00,30,0,,8.50
+400,wc_order_58193aa3542d6,"Order - November 2, 2016 @ 01:00 AM",wc-pending,Stephanie,Mikos,"Cookie/Granola Combo",1,30.00,30,0,,8.50
+401,wc_order_581a19f3e83ca,"Order - November 2, 2016 @ 04:54 PM",wc-processing,michael,zeberlein,"Cinnamon-Pecan Granola, 1 Pound",3,12.00,36,0,,10.00
+402,wc_order_581b92b0c9ab0,"Order - November 3, 2016 @ 07:43 PM",wc-processing,Tina,Jasion,"Cinnamon-Pecan Granola, 1 Pound",4,12.00,48,0,,13.00
+403,wc_order_58209bdd690fc,"Order - November 7, 2016 @ 03:22 PM",wc-processing,Julie,Collier,"Trail Mix",5,3.75,18.75,0,,28.19
+403,wc_order_58209bdd690fc,"Order - November 7, 2016 @ 03:22 PM",wc-processing,Julie,Collier,"Cinnamon Apple Chips - Snack Pack",4,10.00,40,0,,28.19
+403,wc_order_58209bdd690fc,"Order - November 7, 2016 @ 03:22 PM",wc-processing,Julie,Collier,"Donation - $50 - Friend of TWB",1,50.00,50,0,,28.19
+405,wc_order_582a04c989422,"Order - November 14, 2016 @ 06:39 PM",wc-processing,Courtney,Hogwood,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,6.00
+407,wc_order_582f1b373105e,"Order - November 18, 2016 @ 03:17 PM",wc-processing,Daryl,Woolsey,"Cinnamon-Pecan Granola, 1 Pound",1,12.00,12,0,,6.00
+408,wc_order_582f5237b1ef5,"Order - November 18, 2016 @ 07:10 PM",wc-processing,Anita,Doleman,"Sample Pack",1,35.00,35,0,,0.00
+410,wc_order_58326190be9f9,"Order - November 21, 2016 @ 02:55 AM",wc-processing,Kathryn,Caballero,"Cinnamon-Pecan Granola, 1 Pound",3,12.00,36,0,,0.00
+411,wc_order_583302353ebc9,"Order - November 21, 2016 @ 02:19 PM",wc-processing,Edward,Goeas,"Cookie/Granola Combo",10,30.00,300,0,,0.00
+412,wc_order_5837981276c84,"Order - November 25, 2016 @ 01:46 AM",wc-pending,Mercedes,Quinones,"Cinnamon Apple Chips - Bonus Box",1,54.00,54,0,,14.50
+413,wc_order_58386eca49108,"Order - November 25, 2016 @ 05:06 PM",wc-processing,Catherine,Burton,"Sample Pack",1,35.00,35,0,,10.00
+415,wc_order_583d7de4d09e6,"Order - November 29, 2016 @ 01:08 PM",wc-pending,Barbara,Tourtelot,"Sample Pack",1,35.00,35,0,,11.75
+416,wc_order_583db7cb397a7,"Order - November 29, 2016 @ 05:17 PM",wc-processing,Renee,Reynolds,"Cinnamon-Pecan Granola, 1 Pound",9,12.00,108,0,,0.00
+417,wc_order_583de429c9557,"Order - November 29, 2016 @ 08:29 PM",wc-processing,Marilyn,Mikos,"Cookie/Granola Combo",3,30.00,90,0,,25.50
+418,wc_order_583e1914dd274,"Order - November 30, 2016 @ 12:22 AM",wc-processing,Razia,Tajuddin,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,0.00
+419,wc_order_583e2e7a906de,"Order - November 30, 2016 @ 01:43 AM",wc-processing,SARA,ROADES,"Cinnamon-Pecan Granola, 1 Pound",2,12.00,24,0,,10.00
+420,wc_order_583e30133f9d4,"Order - November 30, 2016 @ 01:51 AM",wc-processing,Debra,Randall,"Trail Mix",6,3.75,22.5,0,,13.63
+420,wc_order_583e30133f9d4,"Order - November 30, 2016 @ 01:51 AM",wc-processing,Debra,Randall,"Cinnamon Apple Chips - Snack Pack",2,10.00,20,0,,13.63
+421,wc_order_583f67f53b929,"Order - December 1, 2016 @ 12:02 AM",wc-processing,Cathy,Engstrom,"Cinnamon-Pecan Granola, 1 Pound",3,12.00,36,0,,12.00
+425,wc_order_5840b1524f71f,"Order - December 1, 2016 @ 11:25 PM",wc-processing,Frederick,Gottshcalk,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,10.00
+426,wc_order_5845861e886d7,"Order - December 5, 2016 @ 03:23 PM",wc-processing,PATRICIA,AIKEN-ONEILL,"Cookie/Granola Combo",1,30.00,30,0,,10.50
+427,wc_order_58465a65a2b3a,"Order - December 6, 2016 @ 06:30 AM",wc-cancelled,Tracy,"Di Fulgo","Chocolate Chip Cookies - 1 Dozen",2,18.00,36,0,,12.00
+428,wc_order_58465b61abb9c,"Order - December 6, 2016 @ 06:32 AM",wc-processing,Tracy,"Di Fulgo","Chocolate Chip Cookies - 1 Dozen",2,18.00,36,0,,12.00
+429,wc_order_58465c116ec38,"Order - December 6, 2016 @ 06:35 AM",wc-cancelled,Tracy,"Di Fulgo","Chocolate Chip Cookies - 1 Dozen",2,18.00,36,0,,12.00
+430,wc_order_58465c3f732c4,"Order - December 6, 2016 @ 06:36 AM",wc-processing,Tracy,"Di Fulgo","Chocolate Chip Cookies - 1 Dozen",2,18.00,36,0,,12.00
+431,wc_order_58465d0401d68,"Order - December 6, 2016 @ 06:39 AM",wc-processing,Tracy,"Di Fulgo","Chocolate Chip Cookies - 1 Dozen",2,18.00,36,0,,12.00
+432,wc_order_58465e2178490,"Order - December 6, 2016 @ 06:44 AM",wc-processing,Tracy,"Di Fulgo","Chocolate Chip Cookies - 1 Dozen",2,18.00,36,0,,12.00
+433,wc_order_58465f53dadc7,"Order - December 6, 2016 @ 06:49 AM",wc-processing,Tracy,"Di Fulgo","Chocolate Chip Cookies - 1 Dozen",2,18.00,36,0,,12.00
+434,wc_order_58466044ca27d,"Order - December 6, 2016 @ 06:53 AM",wc-processing,Tracy,"Di Fulgo","Chocolate Chip Cookies - 1 Dozen",2,18.00,36,0,,12.00
+435,wc_order_584663cee7ad1,"Order - December 6, 2016 @ 07:09 AM",wc-processing,Tracy,"Di Fulgo","Chocolate Chip Cookies - 1 Dozen",2,18.00,36,0,,12.00
+436,wc_order_58466aee09bd9,"Order - December 6, 2016 @ 07:39 AM",wc-processing,Tracy,"Di Fulgo","Chocolate Chip Cookies - 1 Dozen",2,18.00,36,0,,12.00
+437,wc_order_584711461f156,"Order - December 6, 2016 @ 07:29 PM",wc-processing,LuAnn,Williams-Moore,"Cinnamon-Pecan Granola, 1 Pound",2,12.00,24,0,,17.75
+437,wc_order_584711461f156,"Order - December 6, 2016 @ 07:29 PM",wc-processing,LuAnn,Williams-Moore,"Sample Pack",1,35.00,35,0,,17.75
+438,wc_order_584bb7e7529c6,"Order - December 10, 2016 @ 08:18 AM",wc-processing,Starsheema,Lapsley,"Cinnamon-Pecan Granola, 1 Pound",5,12.00,60,0,,20.50
+438,wc_order_584bb7e7529c6,"Order - December 10, 2016 @ 08:18 AM",wc-processing,Starsheema,Lapsley,"Cinnamon Apple Chips - Snack Pack",1,10.00,10,0,,20.50
+439,wc_order_584bbada25731,"Order - December 10, 2016 @ 08:23 AM",wc-processing,Starsheema,Lapsley,"Cookie/Granola Combo",1,30.00,30,0,,12.25
+439,wc_order_584bbada25731,"Order - December 10, 2016 @ 08:23 AM",wc-processing,Starsheema,Lapsley,"Cinnamon Apple Chips",1,7.00,7,0,,12.25
+440,wc_order_584c3eb130f3a,"Order - December 10, 2016 @ 11:39 PM",wc-processing,Janet,Harford,"Cinnamon-Pecan Granola, 1 Pound",3,12.00,36,0,,12.00
+441,wc_order_584d5c345e4be,"Order - December 11, 2016 @ 02:02 PM",wc-processing,Frederick,Gottschalk,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,10.00
+442,wc_order_584d7ad6b30c9,"Order - December 11, 2016 @ 04:21 PM",wc-processing,Erica,Anaya,"Sample Pack",1,35.00,35,0,,11.75
+443,wc_order_584d7fe46dd60,"Order - December 11, 2016 @ 04:35 PM",wc-processing,Erica,Anaya,"Sample Pack",1,35.00,35,0,,11.75
+444,wc_order_584df2bf67b1d,"Order - December 12, 2016 @ 12:45 AM",wc-processing,Gloria,Flanagan,"Sample Pack",2,35.00,70,0,,20.50
+445,wc_order_584edbd38d22b,"Order - December 12, 2016 @ 05:18 PM",wc-pending,Cletus,Durkin,"Cookie/Granola Combo",1,30.00,30,0,,10.50
+446,wc_order_584edf45ba2aa,"Order - December 12, 2016 @ 05:32 PM",wc-processing,Cindy,Catlett,"Cinnamon-Pecan Granola, 1 Pound",2,12.00,24,0,,0.00
+446,wc_order_584edf45ba2aa,"Order - December 12, 2016 @ 05:32 PM",wc-processing,Cindy,Catlett,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,0.00
+447,wc_order_584f4ce4e83c9,"Order - December 13, 2016 @ 01:22 AM",wc-cancelled,Mavis,Thomas,"Cinnamon Apple Chips - Bonus Box",1,54.00,54,0,,19.50
+447,wc_order_584f4ce4e83c9,"Order - December 13, 2016 @ 01:22 AM",wc-cancelled,Mavis,Thomas,"Cinnamon-Pecan Granola, 1 Pound",1,12.00,12,0,,19.50
+448,wc_order_584f8d553ac90,"Order - December 13, 2016 @ 05:56 AM",wc-processing,Rebecca,Mahony,"Chocolate Chip Cookies - 1 Dozen",2,18.00,36,0,,22.50
+448,wc_order_584f8d553ac90,"Order - December 13, 2016 @ 05:56 AM",wc-processing,Rebecca,Mahony,"Cookie/Granola Combo",1,30.00,30,0,,22.50
+448,wc_order_584f8d553ac90,"Order - December 13, 2016 @ 05:56 AM",wc-processing,Rebecca,Mahony,"Cinnamon-Pecan Granola, 1 Pound",1,12.00,12,0,,22.50
+449,wc_order_5851412607b96,"Order - December 14, 2016 @ 12:57 PM",wc-processing,"Mary Beth",Buchholz,"Cookie/Granola Combo",1,30.00,30,0,,10.50
+450,wc_order_585176bf0b405,"Order - December 14, 2016 @ 04:44 PM",wc-processing,Dawn,Bauman,"Chocolate Chip Cookies - 1 Dozen",10,18.00,180,0,,0.00
+451,wc_order_5852a89d1bdfe,"Order - December 15, 2016 @ 02:37 PM",wc-processing,Marilyn,Mikos,"Cookie/Granola Combo",2,30.00,60,0,,18.00
+452,wc_order_5852d32a82a29,"Order - December 15, 2016 @ 05:32 PM",wc-processing,Cletus,Durkin,"Cookie/Granola Combo",1,30.00,30,0,,10.50
+453,wc_order_5852d6e45ff84,"Order - December 15, 2016 @ 05:47 PM",wc-processing,Cletus,Durkin,"Cookie/Granola Combo",1,30.00,30,0,,10.50
+454,wc_order_5852d7f8e58fe,"Order - December 15, 2016 @ 05:52 PM",wc-processing,Cletus,Durkin,"Cookie/Granola Combo",1,30.00,30,0,,10.50
+455,wc_order_5852d92a2aca6,"Order - December 15, 2016 @ 05:57 PM",wc-processing,Cletus,Durkin,"Cookie/Granola Combo",1,30.00,30,0,,10.50
+456,wc_order_5852da0255049,"Order - December 15, 2016 @ 06:01 PM",wc-processing,Cletus,Durkin,"Cookie/Granola Combo",1,30.00,30,0,,10.50
+457,wc_order_5852dab97c2ee,"Order - December 15, 2016 @ 06:03 PM",wc-processing,Cletus,Durkin,"Cookie/Granola Combo",1,30.00,30,0,,10.50
+458,wc_order_5853d22588354,"Order - December 16, 2016 @ 11:39 AM",wc-processing,Erica,Anaya,"Sample Pack",1,35.00,35,0,,0.00
+459,wc_order_58564668b9f8a,"Order - December 18, 2016 @ 08:22 AM",wc-processing,Carin,Hoffman,"Cookie/Granola Combo",2,30.00,60,0,,18.00
+460,wc_order_585718a4294d2,"Order - December 18, 2016 @ 11:17 PM",wc-processing,Connie,Banovac,"Chocolate Chip Cookies - 1 Dozen",3,18.00,54,0,,16.50
+461,wc_order_58571dea88fb7,"Order - December 18, 2016 @ 11:39 PM",wc-processing,Connie,Banovac,"Cookie/Granola Combo",1,30.00,30,0,,10.50
+462,wc_order_58571ee29d5ae,"Order - December 18, 2016 @ 11:43 PM",wc-processing,Connie,Banovac,"Cookie/Granola Combo",1,30.00,30,0,,10.50
+463,wc_order_5857377e513c1,"Order - December 19, 2016 @ 01:28 AM",wc-processing,Timothy,Shaw,"Cinnamon-Pecan Granola, 1 Pound",2,12.00,24,0,,10.00
+464,wc_order_58593df1926e6,"Order - December 20, 2016 @ 02:20 PM",wc-processing,Karyn,Moran,"Chocolate Chip Cookies - 1 Dozen",2,18.00,36,0,,12.00
+465,wc_order_585941bfde50b,"Order - December 20, 2016 @ 02:37 PM",wc-processing,Karyn,Moran,"Sample Pack",1,35.00,35,0,,11.75
+467,wc_order_585b2d4f7f6ab,"Order - December 22, 2016 @ 01:33 AM",wc-pending,Shejal,Desai,"Cookie/Granola Combo",1,30.00,30,0,,10.50
+468,wc_order_585ff4782b4f1,"Order - December 25, 2016 @ 04:33 PM",wc-processing,Amy,Bjarnason,"Variation #106 of Gift Donation",1,50.00,50,0,,15.50
+469,wc_order_58651b960dc52,"Order - December 29, 2016 @ 02:21 PM",wc-processing,Rachel,Prout,"Trail Mix",1,3.75,3.75,0,,10.00
+469,wc_order_58651b960dc52,"Order - December 29, 2016 @ 02:21 PM",wc-processing,Rachel,Prout,"Cinnamon Apple Chips - Snack Pack",1,10.00,10,0,,10.00
+469,wc_order_58651b960dc52,"Order - December 29, 2016 @ 02:21 PM",wc-processing,Rachel,Prout,"Cinnamon-Pecan Granola, 1 Pound",1,12.00,12,0,,10.00
+473,wc_order_586d1254e7d93,"Order - January 4, 2017 @ 03:21 PM",wc-processing,Lynn,Harris,"Chocolate Chip Cookies - 1 Dozen",2,18.00,36,0,,12.00
+474,wc_order_586d2e39ac08c,"Order - January 4, 2017 @ 05:17 PM",wc-pending,Elizabeth,Bennett,"Cinnamon-Pecan Granola, 1 Pound",1,12.00,12,0,,0.00
+475,wc_order_586d2f8da6635,"Order - January 4, 2017 @ 05:23 PM",wc-cancelled,Patricia,Sabatini,"Trail Mix",1,3.75,3.75,0,,0.00
+477,wc_order_5877992b77760,"Order - January 12, 2017 @ 02:57 PM",wc-cancelled,Kristin,Harper,"Cinnamon-Pecan Granola, 1 Pound",3,12.00,36,0,,12.00
+478,wc_order_587c3307ebad9,"Order - January 16, 2017 @ 02:44 AM",wc-processing,Torrey,Aiken,"Trail Mix",13,3.75,48.75,0,,15.19
+479,wc_order_587f8299dd2ce,"Order - January 18, 2017 @ 02:58 PM",wc-pending,Joan,Eisenstodt,"Cinnamon Apple Chips - Bonus Box",1,54.00,54,0,,13.50
+483,wc_order_58876a400b110,"Order - January 24, 2017 @ 02:52 PM",wc-pending,Michelle,Myers,"Sample Pack",1,35.00,35,0,,22.00
+483,wc_order_58876a400b110,"Order - January 24, 2017 @ 02:52 PM",wc-pending,Michelle,Myers,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,22.00
+483,wc_order_58876a400b110,"Order - January 24, 2017 @ 02:52 PM",wc-pending,Michelle,Myers,"Sample Pack",1,35.00,35,0,,22.00
+484,wc_order_588778dc87e83,"Order - January 24, 2017 @ 04:08 PM",wc-on-hold,William,Howard,"Trail Mix",4,3.75,15,0,,0.00
+484,wc_order_588778dc87e83,"Order - January 24, 2017 @ 04:08 PM",wc-on-hold,William,Howard,"Cinnamon-Pecan Granola, 1 Pound",1,12.00,12,0,,0.00
+485,wc_order_58877ee62ed33,"Order - January 24, 2017 @ 04:21 PM",wc-processing,amy,zang,"Cookie/Granola Combo",1,24.00,24,-6,2017,7.00
+486,wc_order_58877f1a6cb75,"Order - January 24, 2017 @ 04:22 PM",wc-processing,susan,lyle,"Chocolate Chip Cookies - 1 Dozen",2,14.40,28.8,-14.2,2017,14.20
+486,wc_order_58877f1a6cb75,"Order - January 24, 2017 @ 04:22 PM",wc-processing,susan,lyle,"Sample Pack",1,28.00,28,-14.2,2017,14.20
+487,wc_order_5887821292288,"Order - January 24, 2017 @ 04:34 PM",wc-pending,Cathy,Dooley,"Cinnamon-Pecan Granola, 1 Pound",2,9.60,19.2,-4.8,2017,7.00
+488,wc_order_58878a64bf123,"Order - January 24, 2017 @ 05:10 PM",wc-processing,joanna,bopp,"Cookie/Granola Combo",1,24.00,24,-8.4,2017,8.40
+488,wc_order_58878a64bf123,"Order - January 24, 2017 @ 05:10 PM",wc-processing,joanna,bopp,"Cinnamon-Pecan Granola, 1 Pound",1,9.60,9.6,-8.4,2017,8.40
+489,wc_order_58878cab98d9e,"Order - January 24, 2017 @ 05:26 PM",wc-processing,Ellen,Gehrs,"Cinnamon Apple Chips - Snack Pack",3,8.00,24,-6,2017,7.00
+490,wc_order_58878fdcdfb4e,"Order - January 24, 2017 @ 05:33 PM",wc-pending,"Mary Parker",Lamm,"Trail Mix",2,3.00,6,-7.5,2017,0.00
+490,wc_order_58878fdcdfb4e,"Order - January 24, 2017 @ 05:33 PM",wc-pending,"Mary Parker",Lamm,"Cookie/Granola Combo",1,24.00,24,-7.5,2017,0.00
+491,wc_order_5887ba1e5d403,"Order - January 24, 2017 @ 08:33 PM",wc-pending,Katherine,Price,"Cinnamon-Pecan Granola, 1 Pound",2,9.60,19.2,-12,2017,12.00
+491,wc_order_5887ba1e5d403,"Order - January 24, 2017 @ 08:33 PM",wc-pending,Katherine,Price,"Chocolate Chip Cookies - 1 Dozen",2,14.40,28.8,-12,2017,12.00
+492,wc_order_5887ba73495dc,"Order - January 24, 2017 @ 08:35 PM",wc-processing,Katherine,Price,"Cinnamon-Pecan Granola, 1 Pound",2,9.60,19.2,-12,2017,0.00
+492,wc_order_5887ba73495dc,"Order - January 24, 2017 @ 08:35 PM",wc-processing,Katherine,Price,"Chocolate Chip Cookies - 1 Dozen",2,14.40,28.8,-12,2017,0.00
+493,wc_order_5887fc8331759,"Order - January 25, 2017 @ 01:20 AM",wc-processing,Suzanne,Butler,"Cookie/Granola Combo",1,24.00,24,-7.4,2017,7.40
+493,wc_order_5887fc8331759,"Order - January 25, 2017 @ 01:20 AM",wc-processing,Suzanne,Butler,"Cinnamon Apple Chips",1,5.60,5.6,-7.4,2017,7.40
+494,wc_order_5888d8b634eee,"Order - January 25, 2017 @ 05:03 PM",wc-cancelled,Gabrielle,Vigue,"Cinnamon Apple Chips",1,7.00,7,0,,10.75
+494,wc_order_5888d8b634eee,"Order - January 25, 2017 @ 05:03 PM",wc-cancelled,Gabrielle,Vigue,"Cinnamon-Pecan Granola, 1 Pound",3,12.00,36,0,,10.75
+495,wc_order_588955a2d23b8,"Order - January 26, 2017 @ 01:50 AM",wc-processing,Razia,Tajuddin,"Chocolate Chip Cookies - 1 Dozen",1,14.40,14.4,-3.6,2017,0.00
+496,wc_order_58898960aebf7,"Order - January 26, 2017 @ 05:33 AM",wc-processing,Barbara,Tourtelot,"Chocolate Chip Cookies - 1 Dozen",1,14.40,14.4,-6.35,2017,7.00
+496,wc_order_58898960aebf7,"Order - January 26, 2017 @ 05:33 AM",wc-processing,Barbara,Tourtelot,"Cinnamon Apple Chips - Snack Pack",1,8.00,8,-6.35,2017,7.00
+496,wc_order_58898960aebf7,"Order - January 26, 2017 @ 05:33 AM",wc-processing,Barbara,Tourtelot,"Trail Mix",1,3.00,3,-6.35,2017,7.00
+497,wc_order_588a2398b7589,"Order - January 26, 2017 @ 04:28 PM",wc-processing,Elizabeth,Reynolds,"Cookie/Granola Combo",1,24.00,24,-6,2017,0.00
+498,wc_order_588a2f2d8b94a,"Order - January 26, 2017 @ 05:18 PM",wc-processing,Christi,Behrend,"Sample Pack",1,28.00,28,-11,2017,11.00
+498,wc_order_588a2f2d8b94a,"Order - January 26, 2017 @ 05:18 PM",wc-processing,Christi,Behrend,"Cinnamon Apple Chips - Snack Pack",2,8.00,16,-11,2017,11.00
+499,wc_order_588a31917b770,"Order - January 26, 2017 @ 05:28 PM",wc-processing,Lynne,Mabus,"Cookie/Granola Combo",2,24.00,48,-19.2,2017,19.20
+499,wc_order_588a31917b770,"Order - January 26, 2017 @ 05:28 PM",wc-processing,Lynne,Mabus,"Chocolate Chip Cookies - 1 Dozen",2,14.40,28.8,-19.2,2017,19.20
+500,wc_order_588b5591979c2,"Order - January 27, 2017 @ 02:17 PM",wc-processing,susan,schneider,"Cinnamon-Pecan Granola, 1 Pound",3,9.60,28.8,-7.2,2017,7.20
+501,wc_order_588e285f59687,"Order - January 29, 2017 @ 05:38 PM",wc-processing,Cathleen,Dooley,"Cinnamon-Pecan Granola, 1 Pound",2,9.60,19.2,-4.8,2017,7.00
+502,wc_order_588f7fd75409e,"Order - January 30, 2017 @ 06:10 PM",wc-processing,Priya,Baskaran,"Cinnamon Apple Chips - Snack Pack",1,8.00,8,-9.2,2017,9.20
+502,wc_order_588f7fd75409e,"Order - January 30, 2017 @ 06:10 PM",wc-processing,Priya,Baskaran,"Chocolate Chip Cookies - 1 Dozen",2,14.40,28.8,-9.2,2017,9.20
+503,wc_order_588fa1eccca73,"Order - January 30, 2017 @ 08:29 PM",wc-processing,Jason,Smith,"Cookie/Granola Combo",2,24.00,48,-12,2017,12.00
+506,wc_order_5890e17ec951f,"Order - January 31, 2017 @ 07:13 PM",wc-processing,Karyn,Moran,"Sample Pack",1,28.00,28,-7,2017,7.00
+507,wc_order_5890e2ac34788,"Order - January 31, 2017 @ 07:18 PM",wc-processing,Karyn,Moran,"Sample Pack",1,28.00,28,-7,2017,7.00
+508,wc_order_5891045cd3d7e,"Order - January 31, 2017 @ 09:43 PM",wc-processing,Bridgette,Washington,"Sample Pack",1,35.00,35,0,,8.75
+509,wc_order_5891121218dcb,"Order - January 31, 2017 @ 10:40 PM",wc-processing,danielle,bohall,"Cinnamon-Pecan Granola, 1 Pound",8,9.60,76.8,-19.2,2017,19.20
+512,wc_order_5893693f24eeb,"Order - February 2, 2017 @ 05:18 PM",wc-processing,Janice,Thomas,"Cinnamon Apple Chips - Bonus Box",1,54.00,54,0,,13.50
+517,wc_order_589cc8194c5ee,"Order - February 9, 2017 @ 07:57 PM",wc-processing,Regan,Ralph,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,7.00
+518,wc_order_589ccaa58d9b1,"Order - February 9, 2017 @ 08:06 PM",wc-processing,Regan,Ralph,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,7.00
+519,wc_order_589cd477c2017,"Order - February 9, 2017 @ 08:47 PM",wc-processing,Regan,Ralph,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,7.00
+520,wc_order_589d273b89dc6,"Order - February 10, 2017 @ 02:39 AM",wc-processing,Allison,Erdle,"Chocolate Chip Cookies - 1 Dozen",4,18.00,72,0,,0.00
+522,wc_order_589dd83738721,"Order - February 10, 2017 @ 03:15 PM",wc-processing,Lorrie,Gault,"Chocolate Chip Cookies - 1 Dozen",1,14.40,14.4,-3.6,kirkland,7.00
+524,wc_order_589fa829301fb,"Order - February 12, 2017 @ 12:14 AM",wc-processing,"Dr Kymn",Harvin,"Sample Pack",1,35.00,35,0,,0.00
+526,wc_order_58a22e48ae082,"Order - February 13, 2017 @ 10:09 PM",wc-processing,suzanne,loungeway,"Cinnamon-Pecan Granola, 1 Pound",2,12.00,24,0,,7.00
+527,wc_order_58a2495bde0b6,"Order - February 14, 2017 @ 12:05 AM",wc-processing,Dan,Carlton,"Cinnamon-Pecan Granola, 1 Pound",1,12.00,12,0,,7.00
+528,wc_order_58a24a3517f11,"Order - February 14, 2017 @ 12:08 AM",wc-processing,Dan,Carlton,"Cinnamon-Pecan Granola, 1 Pound",1,12.00,12,0,,7.00
+540,wc_order_58a35a86266a6,"Order - February 14, 2017 @ 07:30 PM",wc-processing,Brian,Adams,"Chocolate Chip Cookies - 1 Dozen",2,18.00,36,0,,7.20
+549,wc_order_58a70093d8eb5,"Order - February 17, 2017 @ 01:56 PM",wc-processing,James,Jacobs,"Cinnamon-Pecan Granola, 1 Pound",1,12.00,12,0,,7.20
+549,wc_order_58a70093d8eb5,"Order - February 17, 2017 @ 01:56 PM",wc-processing,James,Jacobs,"Cinnamon-Pecan Granola, 1 Pound",2,12.00,24,0,,7.20
+558,wc_order_58ade138b518b,"Order - February 22, 2017 @ 07:07 PM",wc-cancelled,Stephanie,Wright,"Trail Mix",1,3.75,3.75,0,,0.00
+558,wc_order_58ade138b518b,"Order - February 22, 2017 @ 07:07 PM",wc-cancelled,Stephanie,Wright,"Sample Pack",1,35.00,35,0,,0.00
+558,wc_order_58ade138b518b,"Order - February 22, 2017 @ 07:07 PM",wc-cancelled,Stephanie,Wright,"Cinnamon-Pecan Granola, 1 Pound",1,12.00,12,0,,0.00
+558,wc_order_58ade138b518b,"Order - February 22, 2017 @ 07:07 PM",wc-cancelled,Stephanie,Wright,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,0.00
+558,wc_order_58ade138b518b,"Order - February 22, 2017 @ 07:07 PM",wc-cancelled,Stephanie,Wright,"Cinnamon Apple Chips",1,7.00,7,0,,0.00
+558,wc_order_58ade138b518b,"Order - February 22, 2017 @ 07:07 PM",wc-cancelled,Stephanie,Wright,"Cinnamon Apple Chips - Snack Pack",1,10.00,10,0,,0.00
+559,wc_order_58b066eb7d27f,"Order - February 24, 2017 @ 05:04 PM",wc-processing,Suzanne,Loungeway,"Cinnamon-Pecan Granola, 1 Pound",1,12.00,12,0,,7.00
+559,wc_order_58b066eb7d27f,"Order - February 24, 2017 @ 05:04 PM",wc-processing,Suzanne,Loungeway,"Cinnamon Apple Chips - Snack Pack",1,10.00,10,0,,7.00
+560,wc_order_58b48dc37c7c7,"Order - February 27, 2017 @ 08:37 PM",wc-processing,Meghan,Ross,"Cinnamon-Pecan Granola, 1 Pound",1,12.00,12,0,,7.00
+569,wc_order_58b87179cf7bd,"Order - March 2, 2017 @ 07:25 PM",wc-processing,Edward,Fickus,"Chocolate Chip Cookies - 1 Dozen",3,18.00,54,0,,9.00
+570,wc_order_58b9ba41d8253,"Order - March 3, 2017 @ 06:48 PM",wc-processing,Clare,Henderson,"Cinnamon-Pecan Granola, 1 Pound",1,12.00,12,0,,7.00
+574,wc_order_58bdb1959695d,"Order - March 6, 2017 @ 06:59 PM",wc-pending,suzanne,"wilson houck","Sample Pack",1,35.00,35,0,,0.00
+574,wc_order_58bdb1959695d,"Order - March 6, 2017 @ 06:59 PM",wc-pending,suzanne,"wilson houck","Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,0.00
+612,wc_order_58c6e8839a3ec,"Order - March 13, 2017 @ 06:45 PM",wc-processing,Dawn,Bauman,"Chocolate Chip Cookies - 1 Dozen",4,18.00,72,0,,0.00
+613,wc_order_58c71be304728,"Order - March 13, 2017 @ 10:25 PM",wc-processing,Christi,Behrend,"Cinnamon Apple Chips - Bonus Box",1,30.00,30,0,,7.85
+613,wc_order_58c71be304728,"Order - March 13, 2017 @ 10:25 PM",wc-processing,Christi,Behrend,"Trail Mix",1,3.75,3.75,0,,7.85
+641,wc_order_58cc0c246c046,"Order - March 17, 2017 @ 04:19 PM",wc-processing,William,Shore,"Cookie/Granola Combo",1,30.00,30,0,,7.40
+642,wc_order_58cc2d87bb3cc,"Order - March 17, 2017 @ 06:40 PM",wc-processing,Michelle,Myers,"Chocolate Chip Cookies - 1 Dozen",3,18.00,54,0,,0.00
+642,wc_order_58cc2d87bb3cc,"Order - March 17, 2017 @ 06:40 PM",wc-processing,Michelle,Myers,"Trail Mix",2,3.75,7.5,0,,0.00
+642,wc_order_58cc2d87bb3cc,"Order - March 17, 2017 @ 06:40 PM",wc-processing,Michelle,Myers,"Cookie/Granola Combo",2,30.00,60,0,,0.00
+642,wc_order_58cc2d87bb3cc,"Order - March 17, 2017 @ 06:40 PM",wc-processing,Michelle,Myers,"Cinnamon Apple Chips",1,7.00,7,0,,0.00
+644,wc_order_58d18f6d829fb,"Order - March 21, 2017 @ 08:40 PM",wc-processing,Tiya,Kassa,"Cinnamon Apple Chips - Snack Pack",5,10.00,50,0,,0.00
+646,wc_order_58da831f46fb3,"Order - March 28, 2017 @ 03:37 PM",wc-processing,Andrea,Muzin,"Cinnamon Apple Chips - Bonus Box",18,30.00,540,0,,68.60
+653,wc_order_58dd36b9a22db,"Order - March 30, 2017 @ 04:47 PM",wc-processing,Test,Myers,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,0.00
+653,wc_order_58dd36b9a22db,"Order - March 30, 2017 @ 04:47 PM",wc-processing,Test,Myers,"Kale Chips",1,5.00,5,0,,0.00
+654,wc_order_58dd7d423957f,"Order - March 30, 2017 @ 09:49 PM",wc-processing,Claudia,Linquanti-Sue,"Cinnamon Apple Chips - Bonus Box",1,30.00,30,0,,7.50
+658,wc_order_58e25b012ef66,"Order - April 3, 2017 @ 02:24 PM",wc-pending,Lynn,Harris,"Chocolate Chip Cookies - 1 Dozen",2,18.00,36,0,,0.00
+659,wc_order_58e25b21b6823,"Order - April 3, 2017 @ 02:27 PM",wc-processing,Lynn,Harris,"Chocolate Chip Cookies - 1 Dozen",2,18.00,36,0,,7.20
+660,wc_order_58e45547630b2,"Order - April 5, 2017 @ 02:25 AM",wc-processing,Marilyn,Bagel,"Cinnamon-Pecan Granola, 1 Pound",2,12.00,24,0,,7.00
+661,wc_order_58e4fda0b2bf0,"Order - April 5, 2017 @ 02:22 PM",wc-processing,test,test,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,0.00
+662,wc_order_58e7940e00142,"Order - April 7, 2017 @ 01:31 PM",wc-processing,Marilyn,Davis,"Sample Pack",1,40.00,40,0,,7.60
+663,wc_order_58e7e97d7bc2e,"Order - April 7, 2017 @ 07:37 PM",wc-processing,Sharon,Mowatt,"Sample Pack",1,40.00,40,0,,0.00
+665,wc_order_58ee46c4cc871,"Order - April 12, 2017 @ 03:24 PM",wc-processing,Melinda,Douglas,"Cookie/Granola Combo",1,30.00,30,0,,0.00
+665,wc_order_58ee46c4cc871,"Order - April 12, 2017 @ 03:24 PM",wc-processing,Melinda,Douglas,"Cinnamon Apple Chips - Snack Pack",1,10.00,10,0,,0.00
+666,wc_order_58ef95d3798e3,"Order - April 13, 2017 @ 03:15 PM",wc-processing,Laurene,Argiropoulos,"Cinnamon-Pecan Granola, 1 Pound",4,12.00,48,0,,8.40
+667,wc_order_58f23c35176cb,"Order - April 15, 2017 @ 03:28 PM",wc-processing,M,Test,"Chocolate Chip Cookies - 1 Dozen",1,18.00,18,0,,0.00
+669,wc_order_58ff9fff61f05,"Order - April 25, 2017 @ 07:14 PM",wc-processing,Gregory,Bendelius,"Cinnamon-Pecan Granola, 1 Pound",4,9.60,38.4,-9.6,welcome,8.41
+670,wc_order_5900cc3067c4b,"Order - April 26, 2017 @ 04:34 PM",wc-processing,Megan,McIntyre,"Cookie/Granola Combo",1,30.00,30,0,,7.40
+671,wc_order_59014dfe5b1e2,"Order - April 27, 2017 @ 01:48 AM",wc-processing,Rubyq,Daniels,"Cinnamon-Pecan Granola, 1 Pound",2,9.60,19.2,-4.8,welcome,0.00
+672,wc_order_59036e80d091c,"Order - April 28, 2017 @ 04:32 PM",wc-processing,Keith,Reynolds,"Sample Pack",1,40.00,40,0,,7.60
+673,wc_order_590b0fab96a2a,"Order - May 4, 2017 @ 11:25 AM",wc-processing,Lisa,Chung,"Cookie/Granola Combo",1,30.00,30,0,,10.50
+673,wc_order_590b0fab96a2a,"Order - May 4, 2017 @ 11:25 AM",wc-processing,Lisa,Chung,"Cinnamon-Pecan Granola, 1 Pound",1,12.00,12,0,,10.50
+675,wc_order_590f9155e20ff,"Order - May 7, 2017 @ 09:27 PM",wc-processing,Sarah,Maddock,"Cinnamon-Pecan Granola, 1 Pound",2,12.00,24,0,,7.00
+676,wc_order_590fc4542d1d5,"Order - May 8, 2017 @ 01:05 AM",wc-processing,Danielle,Kozlowski,"Cinnamon-Pecan Granola, 1 Pound",3,12.00,36,0,,0.00
+676,wc_order_590fc4542d1d5,"Order - May 8, 2017 @ 01:05 AM",wc-processing,Danielle,Kozlowski,"Trail Mix",2,3.75,7.5,0,,0.00
+676,wc_order_590fc4542d1d5,"Order - May 8, 2017 @ 01:05 AM",wc-processing,Danielle,Kozlowski,"Cinnamon Apple Chips",2,7.00,14,0,,0.00
+676,wc_order_590fc4542d1d5,"Order - May 8, 2017 @ 01:05 AM",wc-processing,Danielle,Kozlowski,"Kale Chips",1,5.00,5,0,,0.00
+677,wc_order_5911ff1c0abd2,"Order - May 9, 2017 @ 05:40 PM",wc-processing,Marilyn,Bagel,"Cinnamon-Pecan Granola, 1 Pound",1,9.60,9.6,-2.4,welcome,7.00
+678,wc_order_591253ae7dfec,"Order - May 9, 2017 @ 11:41 PM",wc-processing,Hilery,Sirpis,"Chocolate Chip Cookies - 1 Dozen",2,18.00,36,0,,7.20
+679,wc_order_5915e4f5ec79b,"Order - May 12, 2017 @ 04:38 PM",wc-processing,Lynda,Aaron,"Sample Pack",1,40.00,40,0,,8.60
+680,wc_order_591af96666353,"Order - May 16, 2017 @ 01:06 PM",wc-processing,Thomas,Canning,"Sample Pack",2,32.00,64,-16,welcome,0.00
+681,wc_order_591b9c811913d,"Order - May 17, 2017 @ 12:42 AM",wc-processing,Betsy,Fenzel,"Cinnamon Apple Chips - Snack Pack",1,8.00,8,-4.4,welcome,0.00
+681,wc_order_591b9c811913d,"Order - May 17, 2017 @ 12:42 AM",wc-processing,Betsy,Fenzel,"Cinnamon-Pecan Granola, 1 Pound",1,9.60,9.6,-4.4,welcome,0.00

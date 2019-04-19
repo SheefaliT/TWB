@@ -1,0 +1,120 @@
+03-25-2019 @ 22:24:12 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=export&start_date=03%2F24%2F2019+20%3A49&end_date=03%2F26%2F2019+19%3A24&page=1
+03-25-2019 @ 22:24:13 - Exported 2 orders
+03-26-2019 @ 06:39:37 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=export&start_date=03%2F25%2F2019+14%3A24&end_date=03%2F27%2F2019+03%3A39&page=1
+03-26-2019 @ 06:39:38 - Exported 1 orders
+03-26-2019 @ 09:53:52 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=shipnotify&order_number=1792&carrier=USPS&service=USPS+Priority+Mail&tracking_number=9405511699000541583218&capture=true
+03-26-2019 @ 09:53:52 - ShipNotify XML: <?xml version="1.0" encoding="UTF-8"?><ShipNotice><OrderNumber>1792</OrderNumber><OrderID>1792</OrderID><CustomerCode>lisdelcid@outlook.com</CustomerCode><CustomerNotes><![CDATA[]]></CustomerNotes><InternalNotes><![CDATA[]]></InternalNotes><NotesToCustomer><![CDATA[]]></NotesToCustomer><NotifyCustomer>true</NotifyCustomer><LabelCreateDate>03/26/2019 07:00</LabelCreateDate><ShipDate>03/26/2019</ShipDate><Carrier>USPS</Carrier><Service>USPS Priority Mail</Service><TrackingNumber>9405511699000541583218</TrackingNumber><ShippingCost>7.6</ShippingCost><CustomField1>employee</CustomField1><CustomField2 /><CustomField3 /><Recipient><Name>Tom Lozupone</Name><Company>CHEFFY</Company><Address1>6106 85TH PL</Address1><Address2 /><City>NEW CARROLLTON</City><State>MD</State><PostalCode>20784-2844</PostalCode><Country>US</Country></Recipient><Items><Item><Name>Chocolate Chip Cookies - 1 Dozen</Name><SKU>Cookies</SKU><LineItemID>2848</LineItemID><Quantity>1</Quantity></Item></Items></ShipNotice>
+03-26-2019 @ 09:53:52 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Chocolate Chip Cookies - 1 Dozen
+    [SKU] => Cookies
+    [LineItemID] => 2848
+    [Quantity] => 1
+)
+
+03-26-2019 @ 09:53:53 - Shipped 1 out of 1 items in order 1792
+03-26-2019 @ 09:53:55 - Updated order 1792 to status wc-completed
+03-26-2019 @ 10:28:32 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=shipnotify&order_number=1791&carrier=USPS&service=USPS+Priority+Mail&tracking_number=9405511699000541615810&capture=true
+03-26-2019 @ 10:28:33 - ShipNotify XML: <?xml version="1.0" encoding="UTF-8"?><ShipNotice><OrderNumber>1791</OrderNumber><OrderID>1791</OrderID><CustomerCode>lisdelcid@outlook.com</CustomerCode><CustomerNotes><![CDATA[send grad pic with order]]></CustomerNotes><InternalNotes><![CDATA[]]></InternalNotes><NotesToCustomer><![CDATA[]]></NotesToCustomer><NotifyCustomer>true</NotifyCustomer><LabelCreateDate>03/26/2019 07:00</LabelCreateDate><ShipDate>03/26/2019</ShipDate><Carrier>USPS</Carrier><Service>USPS Priority Mail</Service><TrackingNumber>9405511699000541615810</TrackingNumber><ShippingCost>8.07</ShippingCost><CustomField1>employee</CustomField1><CustomField2 /><CustomField3 /><Recipient><Name>Kathy Shaefer</Name><Company /><Address1>1194 E REGENCY DR</Address1><Address2 /><City>BLOOMINGTON</City><State>IN</State><PostalCode>47401-8755</PostalCode><Country>US</Country></Recipient><Items><Item><Name>Cookie/Granola Combo</Name><SKU>G&amp;C</SKU><LineItemID>2845</LineItemID><Quantity>1</Quantity></Item></Items></ShipNotice>
+03-26-2019 @ 10:28:33 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Cookie/Granola Combo
+    [SKU] => G&C
+    [LineItemID] => 2845
+    [Quantity] => 1
+)
+
+03-26-2019 @ 10:28:33 - Shipped 1 out of 1 items in order 1791
+03-26-2019 @ 10:28:34 - Updated order 1791 to status wc-completed
+03-26-2019 @ 10:31:07 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=shipnotify&order_number=1790&carrier=USPS&service=USPS+Priority+Mail&tracking_number=9405511699000541699148&capture=true
+03-26-2019 @ 10:31:07 - ShipNotify XML: <?xml version="1.0" encoding="UTF-8"?><ShipNotice><OrderNumber>1790</OrderNumber><OrderID>1790</OrderID><CustomerCode>lisdelcid@outlook.com</CustomerCode><CustomerNotes><![CDATA[send grad pic with package]]></CustomerNotes><InternalNotes><![CDATA[]]></InternalNotes><NotesToCustomer><![CDATA[]]></NotesToCustomer><NotifyCustomer>true</NotifyCustomer><LabelCreateDate>03/26/2019 07:00</LabelCreateDate><ShipDate>03/26/2019</ShipDate><Carrier>USPS</Carrier><Service>USPS Priority Mail</Service><TrackingNumber>9405511699000541699148</TrackingNumber><ShippingCost>10.5</ShippingCost><CustomField1>employee</CustomField1><CustomField2 /><CustomField3 /><Recipient><Name>Nancy Havens</Name><Company /><Address1>7526 PARKVIEW MTN</Address1><Address2 /><City>LITTLETON</City><State>CO</State><PostalCode>80127-3829</PostalCode><Country>US</Country></Recipient><Items><Item><Name>Cookie/Granola Combo</Name><SKU>G&amp;C</SKU><LineItemID>2842</LineItemID><Quantity>1</Quantity></Item></Items></ShipNotice>
+03-26-2019 @ 10:31:08 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Cookie/Granola Combo
+    [SKU] => G&C
+    [LineItemID] => 2842
+    [Quantity] => 1
+)
+
+03-26-2019 @ 10:31:08 - Shipped 1 out of 1 items in order 1790
+03-26-2019 @ 10:31:12 - Updated order 1790 to status wc-completed
+03-26-2019 @ 10:34:11 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=shipnotify&order_number=1786&carrier=USPS&service=USPS+Priority+Mail&tracking_number=9405511699000541664115&capture=true
+03-26-2019 @ 10:34:11 - ShipNotify XML: <?xml version="1.0" encoding="UTF-8"?><ShipNotice><OrderNumber>1786</OrderNumber><OrderID>1786</OrderID><CustomerCode>elizabeth@togetherwebake.org</CustomerCode><CustomerNotes><![CDATA[Dear Carl and Susan,
+
+Thank you so much for inviting me and Stephen to join you at the SSA Gala. We had a lovely time and I am grateful for your support. We look forward to seeing you again soon.
+
+Warmly,
+Elizabeth
+
+P.S. The cookies freeze very well if you don't want to eat them all now!]]></CustomerNotes><InternalNotes><![CDATA[]]></InternalNotes><NotesToCustomer><![CDATA[]]></NotesToCustomer><NotifyCustomer>true</NotifyCustomer><LabelCreateDate>03/26/2019 07:00</LabelCreateDate><ShipDate>03/26/2019</ShipDate><Carrier>USPS</Carrier><Service>USPS Priority Mail</Service><TrackingNumber>9405511699000541664115</TrackingNumber><ShippingCost>7.6</ShippingCost><CustomField1>employee</CustomField1><CustomField2 /><CustomField3 /><Recipient><Name>Carl and Susan Behnke</Name><Company /><Address1>513 W WINDSOR AVE</Address1><Address2 /><City>ALEXANDRIA</City><State>VA</State><PostalCode>22302-3727</PostalCode><Country>US</Country></Recipient><Items><Item><Name>Chocolate Chip Cookies - 1 Dozen</Name><SKU>Cookies</SKU><LineItemID>2829</LineItemID><Quantity>1</Quantity></Item></Items></ShipNotice>
+03-26-2019 @ 10:34:12 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Chocolate Chip Cookies - 1 Dozen
+    [SKU] => Cookies
+    [LineItemID] => 2829
+    [Quantity] => 1
+)
+
+03-26-2019 @ 10:34:14 - Shipped 1 out of 1 items in order 1786
+03-26-2019 @ 10:34:18 - Updated order 1786 to status wc-completed
+03-26-2019 @ 10:36:32 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=shipnotify&order_number=1789&carrier=USPS&service=USPS+Priority+Mail&tracking_number=9405511699000541935109&capture=true
+03-26-2019 @ 10:36:32 - ShipNotify XML: <?xml version="1.0" encoding="UTF-8"?><ShipNotice><OrderNumber>1789</OrderNumber><OrderID>1789</OrderID><CustomerCode>marthashelton@comcast.net</CustomerCode><CustomerNotes><![CDATA[Congratulations! Nate will be the best big brother ever!
+Much love to you all- the Sheltons]]></CustomerNotes><InternalNotes><![CDATA[]]></InternalNotes><NotesToCustomer><![CDATA[]]></NotesToCustomer><NotifyCustomer>true</NotifyCustomer><LabelCreateDate>03/26/2019 07:00</LabelCreateDate><ShipDate>03/26/2019</ShipDate><Carrier>USPS</Carrier><Service>USPS Priority Mail</Service><TrackingNumber>9405511699000541935109</TrackingNumber><ShippingCost>7.6</ShippingCost><CustomField1 /><CustomField2 /><CustomField3 /><Recipient><Name>Fuge Family of Four</Name><Company /><Address1>3513 OLD POST RD</Address1><Address2 /><City>FAIRFAX</City><State>VA</State><PostalCode>22030-2024</PostalCode><Country>US</Country></Recipient><Items><Item><Name>Cookie/Granola Combo</Name><SKU>G&amp;C</SKU><LineItemID>2839</LineItemID><Quantity>1</Quantity></Item></Items></ShipNotice>
+03-26-2019 @ 10:36:32 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Cookie/Granola Combo
+    [SKU] => G&C
+    [LineItemID] => 2839
+    [Quantity] => 1
+)
+
+03-26-2019 @ 10:36:32 - Shipped 1 out of 1 items in order 1789
+03-26-2019 @ 10:36:33 - Updated order 1789 to status wc-completed
+03-26-2019 @ 10:44:02 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=shipnotify&order_number=1781&carrier=USPS&service=USPS+Priority+Mail&tracking_number=9405511699000541983896&capture=true
+03-26-2019 @ 10:44:02 - ShipNotify XML: <?xml version="1.0" encoding="UTF-8"?><ShipNotice><OrderNumber>1781</OrderNumber><OrderID>1781</OrderID><CustomerCode>amchase@me.com</CustomerCode><CustomerNotes><![CDATA[]]></CustomerNotes><InternalNotes><![CDATA[]]></InternalNotes><NotesToCustomer><![CDATA[]]></NotesToCustomer><NotifyCustomer>true</NotifyCustomer><LabelCreateDate>03/26/2019 07:00</LabelCreateDate><ShipDate>03/26/2019</ShipDate><Carrier>USPS</Carrier><Service>USPS Priority Mail</Service><TrackingNumber>9405511699000541983896</TrackingNumber><ShippingCost>8.0</ShippingCost><CustomField1 /><CustomField2 /><CustomField3 /><Recipient><Name>Angela Chase</Name><Company /><Address1>6405 SPRING FOREST RD</Address1><Address2 /><City>FREDERICK</City><State>MD</State><PostalCode>21701-5826</PostalCode><Country>US</Country></Recipient><Items><Item><Name>Small Cinnamon Apple Chips - Snack Pack</Name><SKU>Apple-Chips-Snack</SKU><LineItemID>2826</LineItemID><Quantity>3</Quantity></Item><Item><Name>Cinnamon Apple Chips - Bonus Box</Name><SKU>Apple-5large</SKU><LineItemID>2827</LineItemID><Quantity>1</Quantity></Item></Items></ShipNotice>
+03-26-2019 @ 10:44:02 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Small Cinnamon Apple Chips - Snack Pack
+    [SKU] => Apple-Chips-Snack
+    [LineItemID] => 2826
+    [Quantity] => 3
+)
+
+03-26-2019 @ 10:44:03 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Cinnamon Apple Chips - Bonus Box
+    [SKU] => Apple-5large
+    [LineItemID] => 2827
+    [Quantity] => 1
+)
+
+03-26-2019 @ 10:44:03 - Shipped 4 out of 4 items in order 1781
+03-26-2019 @ 10:44:05 - Updated order 1781 to status wc-completed
+03-26-2019 @ 11:05:23 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=shipnotify&order_number=1794&carrier=USPS&service=USPS+Priority+Mail&tracking_number=9405511699000543344589&capture=true
+03-26-2019 @ 11:05:23 - ShipNotify XML: <?xml version="1.0" encoding="UTF-8"?><ShipNotice><OrderNumber>1794</OrderNumber><OrderID>1794</OrderID><CustomerCode>hartgibbs@hotmail.com</CustomerCode><CustomerNotes><![CDATA[]]></CustomerNotes><InternalNotes><![CDATA[]]></InternalNotes><NotesToCustomer><![CDATA[]]></NotesToCustomer><NotifyCustomer>true</NotifyCustomer><LabelCreateDate>03/26/2019 07:00</LabelCreateDate><ShipDate>03/26/2019</ShipDate><Carrier>USPS</Carrier><Service>USPS Priority Mail</Service><TrackingNumber>9405511699000543344589</TrackingNumber><ShippingCost>9.35</ShippingCost><CustomField1 /><CustomField2 /><CustomField3 /><Recipient><Name>Mary Catherine Gibbs</Name><Company /><Address1>4243 N PAULINA ST</Address1><Address2 /><City>CHICAGO</City><State>IL</State><PostalCode>60613-1217</PostalCode><Country>US</Country></Recipient><Items><Item><Name>Cinnamon-Pecan Granola, 1 Pound</Name><SKU>Granola</SKU><LineItemID>2854</LineItemID><Quantity>3</Quantity></Item><Item><Name>Trail Mix</Name><SKU>Trail-Mix</SKU><LineItemID>2855</LineItemID><Quantity>1</Quantity></Item><Item><Name>Chocolate Chip Cookies - 1 Dozen</Name><SKU>Cookies</SKU><LineItemID>2856</LineItemID><Quantity>1</Quantity></Item></Items></ShipNotice>
+03-26-2019 @ 11:05:23 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Cinnamon-Pecan Granola, 1 Pound
+    [SKU] => Granola
+    [LineItemID] => 2854
+    [Quantity] => 3
+)
+
+03-26-2019 @ 11:05:24 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Trail Mix
+    [SKU] => Trail-Mix
+    [LineItemID] => 2855
+    [Quantity] => 1
+)
+
+03-26-2019 @ 11:05:24 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Chocolate Chip Cookies - 1 Dozen
+    [SKU] => Cookies
+    [LineItemID] => 2856
+    [Quantity] => 1
+)
+
+03-26-2019 @ 11:05:24 - Shipped 5 out of 5 items in order 1794
+03-26-2019 @ 11:05:26 - Updated order 1794 to status wc-completed

@@ -1,0 +1,66 @@
+03-12-2019 @ 00:57:47 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=export&start_date=03%2F11%2F2019+11%3A06&end_date=03%2F12%2F2019+21%3A57&page=1
+03-12-2019 @ 00:57:48 - Exported 3 orders
+03-12-2019 @ 04:31:08 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=export&start_date=03%2F11%2F2019+16%3A57&end_date=03%2F13%2F2019+01%3A31&page=1
+03-12-2019 @ 04:31:08 - Exported 3 orders
+03-12-2019 @ 08:42:50 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=export&start_date=03%2F11%2F2019+20%3A31&end_date=03%2F13%2F2019+05%3A42&page=1
+03-12-2019 @ 08:42:51 - Exported 3 orders
+03-12-2019 @ 13:10:30 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=shipnotify&order_number=1775&carrier=USPS&service=USPS+Priority+Mail&tracking_number=9405511699000430351553&capture=true
+03-12-2019 @ 13:10:30 - ShipNotify XML: <?xml version="1.0" encoding="UTF-8"?><ShipNotice><OrderNumber>1775</OrderNumber><OrderID>1775</OrderID><CustomerCode>stephmwright71@gmail.com</CustomerCode><CustomerNotes><![CDATA[Happy Birthday Karyn! I hope you have a wonderful time celebrating you! I am sure you loved having McClain home for break! Hope to see you soon! Miss and love you! Stephanie]]></CustomerNotes><InternalNotes><![CDATA[]]></InternalNotes><NotesToCustomer><![CDATA[]]></NotesToCustomer><NotifyCustomer>true</NotifyCustomer><LabelCreateDate>03/12/2019 07:00</LabelCreateDate><ShipDate>03/12/2019</ShipDate><Carrier>USPS</Carrier><Service>USPS Priority Mail</Service><TrackingNumber>9405511699000430351553</TrackingNumber><ShippingCost>7.6</ShippingCost><CustomField1>employee</CustomField1><CustomField2 /><CustomField3 /><Recipient><Name>Karyn Moran</Name><Company /><Address1>12032 OLD BUCKINGHAM RD</Address1><Address2 /><City>MIDLOTHIAN</City><State>VA</State><PostalCode>23113-2730</PostalCode><Country>US</Country></Recipient><Items><Item><Name>Sample Pack</Name><SKU>samplepack</SKU><LineItemID>2811</LineItemID><Quantity>1</Quantity></Item></Items></ShipNotice>
+03-12-2019 @ 13:10:30 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Sample Pack
+    [SKU] => samplepack
+    [LineItemID] => 2811
+    [Quantity] => 1
+)
+
+03-12-2019 @ 13:10:30 - Shipped 1 out of 1 items in order 1775
+03-12-2019 @ 13:10:32 - Updated order 1775 to status wc-completed
+03-12-2019 @ 13:17:37 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=shipnotify&order_number=1772&carrier=USPS&service=USPS+Priority+Mail&tracking_number=9405511699000430292504&capture=true
+03-12-2019 @ 13:17:37 - ShipNotify XML: <?xml version="1.0" encoding="UTF-8"?><ShipNotice><OrderNumber>1772</OrderNumber><OrderID>1772</OrderID><CustomerCode>stephmwright71@gmail.com</CustomerCode><CustomerNotes><![CDATA[Note: Thank you so much to the Vernis family for your amazing generosity! We are so excited to go to Big Sky! Happy B-day Patrick! Happy Senior Year Nicole!
+
+Love, Steph and the rest of the Wrights!]]></CustomerNotes><InternalNotes><![CDATA[]]></InternalNotes><NotesToCustomer><![CDATA[]]></NotesToCustomer><NotifyCustomer>true</NotifyCustomer><LabelCreateDate>03/12/2019 07:00</LabelCreateDate><ShipDate>03/12/2019</ShipDate><Carrier>USPS</Carrier><Service>USPS Priority Mail</Service><TrackingNumber>9405511699000430292504</TrackingNumber><ShippingCost>8.71</ShippingCost><CustomField1>employee</CustomField1><CustomField2 /><CustomField3 /><Recipient><Name>Stephanie Vernis</Name><Company /><Address1>713 JACANA WAY</Address1><Address2 /><City>NORTH PALM BEACH</City><State>FL</State><PostalCode>33408-4707</PostalCode><Country>US</Country></Recipient><Items><Item><Name>Sample Pack</Name><SKU>samplepack</SKU><LineItemID>2805</LineItemID><Quantity>1</Quantity></Item></Items></ShipNotice>
+03-12-2019 @ 13:17:37 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Sample Pack
+    [SKU] => samplepack
+    [LineItemID] => 2805
+    [Quantity] => 1
+)
+
+03-12-2019 @ 13:17:38 - Shipped 1 out of 1 items in order 1772
+03-12-2019 @ 13:17:39 - Updated order 1772 to status wc-completed
+03-12-2019 @ 13:23:27 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=shipnotify&order_number=1774&carrier=USPS&service=USPS+Priority+Mail&tracking_number=9405511699000430513159&capture=true
+03-12-2019 @ 13:23:27 - ShipNotify XML: <?xml version="1.0" encoding="UTF-8"?><ShipNotice><OrderNumber>1774</OrderNumber><OrderID>1774</OrderID><CustomerCode>stephmwright71@gmail.com</CustomerCode><CustomerNotes><![CDATA[Lori, I totally feel your pain and wish I could share the burden somehow. I am sending healing vibes! Try to embrace the down time and make the best of it. Let me know if you want me to send some books down! Love and miss you! Stephanie]]></CustomerNotes><InternalNotes><![CDATA[]]></InternalNotes><NotesToCustomer><![CDATA[]]></NotesToCustomer><NotifyCustomer>true</NotifyCustomer><LabelCreateDate>03/12/2019 07:00</LabelCreateDate><ShipDate>03/12/2019</ShipDate><Carrier>USPS</Carrier><Service>USPS Priority Mail</Service><TrackingNumber>9405511699000430513159</TrackingNumber><ShippingCost>8.07</ShippingCost><CustomField1>employee</CustomField1><CustomField2 /><CustomField3 /><Recipient><Name>Lori Rich</Name><Company /><Address1>110 BEAR CAVE TRL</Address1><Address2 /><City>WOODSTOCK</City><State>GA</State><PostalCode>30189-4866</PostalCode><Country>US</Country></Recipient><Items><Item><Name>Sample Pack</Name><SKU>samplepack</SKU><LineItemID>2808</LineItemID><Quantity>1</Quantity></Item></Items></ShipNotice>
+03-12-2019 @ 13:23:27 - ShipNotify Item: SimpleXMLElement Object
+(
+    [Name] => Sample Pack
+    [SKU] => samplepack
+    [LineItemID] => 2808
+    [Quantity] => 1
+)
+
+03-12-2019 @ 13:23:27 - Shipped 1 out of 1 items in order 1774
+03-12-2019 @ 13:23:28 - Updated order 1774 to status wc-completed
+03-12-2019 @ 13:33:59 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=shipnotify&order_number=1771&carrier=USPS&service=USPS+Priority+Mail&tracking_number=9405511699000430747998&capture=true
+03-12-2019 @ 13:33:59 - ShipNotify XML: <?xml version="1.0" encoding="UTF-8"?><ShipNotice><OrderNumber>1771</OrderNumber><OrderID>1771</OrderID><CustomerCode>hatterya@gmail.com</CustomerCode><CustomerNotes><![CDATA[]]></CustomerNotes><InternalNotes><![CDATA[]]></InternalNotes><NotesToCustomer><![CDATA[]]></NotesToCustomer><NotifyCustomer>true</NotifyCustomer><LabelCreateDate>03/12/2019 07:00</LabelCreateDate><ShipDate>03/12/2019</ShipDate><Carrier>USPS</Carrier><Service>USPS Priority Mail</Service><TrackingNumber>9405511699000430747998</TrackingNumber><ShippingCost>7.6</ShippingCost><CustomField1 /><CustomField2 /><CustomField3 /><Recipient><Name>Lisa Snyder</Name><Company /><Address1>15590 NORTHGATE DR</Address1><Address2 /><City>DUMFRIES</City><State>VA</State><PostalCode>22025-1832</PostalCode><Country>US</Country></Recipient><Items><Item><Name>Chocolate Chip Cookies - 1 Dozen</Name><SKU>Cookies</SKU><LineItemID>2802</LineItemID><Quantity>1</Quantity></Item></Items></ShipNotice>
+03-12-2019 @ 13:34:02 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=shipnotify&order_number=1771&carrier=USPS&service=USPS+Priority+Mail&tracking_number=9405511699000430747998&capture=true
+03-12-2019 @ 13:34:02 - Missing ShipNotify XML input.
+03-12-2019 @ 13:34:02 - $_REQUEST: Array
+(
+    [wc-api] => wc_shipstation
+    [auth_key] => WCSS-28dd88779c0f5e8cb51637529deab2dd
+    [action] => shipnotify
+    [order_number] => 1771
+    [carrier] => USPS
+    [service] => USPS Priority Mail
+    [tracking_number] => 9405511699000430747998
+    [capture] => true
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+03-12-2019 @ 13:34:02 - No items found - shipping entire order 1771.
+03-12-2019 @ 13:34:04 - Updated order 1771 to status wc-completed
+03-12-2019 @ 18:43:52 - Input params: wc-api=wc_shipstation&auth_key=WCSS-28dd88779c0f5e8cb51637529deab2dd&action=export&start_date=03%2F12%2F2019+00%3A42&end_date=03%2F13%2F2019+15%3A43&page=1
+03-12-2019 @ 18:43:53 - Exported 4 orders

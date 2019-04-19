@@ -1,0 +1,38 @@
+2019-03-26T14:06:11+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1792 :: email: lisdelcid@outlook.com
+2019-03-26T14:06:15+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1792 :: email: lisdelcid@outlook.com
+2019-03-26T14:31:17+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1791 :: email: lisdelcid@outlook.com
+2019-03-26T14:31:18+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1791 :: email: lisdelcid@outlook.com
+2019-03-26T14:34:22+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1790 :: email: lisdelcid@outlook.com
+2019-03-26T14:34:25+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1790 :: email: lisdelcid@outlook.com
+2019-03-26T14:44:10+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1789 :: email: marthashelton@comcast.net
+2019-03-26T14:44:13+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1789 :: email: marthashelton@comcast.net
+2019-03-26T14:53:57+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1781 :: email: amchase@me.com
+2019-03-26T14:53:57+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1781 :: email: amchase@me.com
+2019-03-26T14:53:58+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1781 :: email: amchase@me.com
+2019-03-26T15:13:05+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1794 :: email: hartgibbs@hotmail.com
+2019-03-26T15:13:06+00:00 NOTICE member.sync :: Updated Member hartgibbs@hotmail.com ( merge tags only ) :: Array
+(
+    [merge_vars] => Array
+        (
+            [FNAME] => Mary Catherine
+            [LNAME] => Gibbs
+        )
+
+)
+
+2019-03-26T15:13:09+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1794 :: email: hartgibbs@hotmail.com
+2019-03-26T22:05:05+00:00 NOTICE abandoned_cart.success :: email: davenportdonna3@gmail.com :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=f32a38fdeb11a8bce1ff25c9bb2a6bb1
+2019-03-26T22:05:51+00:00 NOTICE abandoned_cart.success :: email: davenportdonna3@gmail.com :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=f32a38fdeb11a8bce1ff25c9bb2a6bb1
+2019-03-26T22:06:02+00:00 NOTICE member.sync :: Skipped Member Sync For davenportdonna3@gmail.com because the current status is unsubscribed :: Array
+(
+    [FNAME] => Donna
+    [LNAME] => Davenport
+)
+
+2019-03-26T22:07:41+00:00 NOTICE order_submit.success :: addStoreOrder :: #1795 :: email: davenportdonna3@gmail.com :: landing site https://shop.togetherwebake.org/?wc-ajax=get_refreshed_fragments :: abandoned cart deleted [f32a38fdeb11a8bce1ff25c9bb2a6bb1]
+2019-03-26T22:09:49+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1795 :: email: davenportdonna3@gmail.com
+2019-03-26T22:09:50+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1795 :: email: davenportdonna3@gmail.com
+2019-03-26T23:21:41+00:00 NOTICE abandoned_cart.success :: email: edlidi@aol.com :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=33a100179dbf4c586a8fed5c32f43b58
+2019-03-26T23:22:28+00:00 NOTICE abandoned_cart.success :: email: edlidi@aol.com :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=33a100179dbf4c586a8fed5c32f43b58
+2019-03-26T23:22:30+00:00 NOTICE abandoned_cart.success :: email: edlidi@aol.com :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=33a100179dbf4c586a8fed5c32f43b58
+2019-03-26T23:28:11+00:00 NOTICE order_submit.success :: addStoreOrder :: #1796 :: email: edlidi@aol.com :: landing site https://shop.togetherwebake.org/ :: abandoned cart deleted [33a100179dbf4c586a8fed5c32f43b58]

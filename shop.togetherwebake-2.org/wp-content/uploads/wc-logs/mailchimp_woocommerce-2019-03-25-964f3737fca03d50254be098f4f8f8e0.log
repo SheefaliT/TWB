@@ -1,0 +1,14 @@
+2019-03-25T21:26:20+00:00 NOTICE abandoned_cart.success :: email: hartgibbs@hotmail.com :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=34f581151d1f5d217ec24798a424da81
+2019-03-25T21:26:57+00:00 NOTICE member.sync :: Updated Member hartgibbs@hotmail.com ( merge tags only ) :: Array
+(
+    [merge_vars] => Array
+        (
+            [FNAME] => Mary Catherine
+            [LNAME] => Gibbs
+        )
+
+)
+
+2019-03-25T21:30:13+00:00 NOTICE order_submit.success :: addStoreOrder :: #1794 :: email: hartgibbs@hotmail.com :: landing site https://shop.togetherwebake.org/ :: abandoned cart deleted [34f581151d1f5d217ec24798a424da81]
+2019-03-25T21:30:15+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1794 :: email: hartgibbs@hotmail.com
+2019-03-25T21:30:17+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1794 :: email: hartgibbs@hotmail.com

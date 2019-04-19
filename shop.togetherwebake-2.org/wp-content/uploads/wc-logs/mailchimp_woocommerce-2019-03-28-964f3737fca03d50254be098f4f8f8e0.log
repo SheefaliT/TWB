@@ -1,0 +1,2 @@
+2019-03-28T00:08:51+00:00 NOTICE order_submit.success :: addStoreOrder :: #1797 :: email: sreney@gmail.com :: landing site https://shop.togetherwebake.org/ :: abandoned cart deleted [b5636d5730c109add595946ae336bb0a]
+2019-03-28T15:03:04+00:00 NOTICE abandoned_cart.success :: email: harbi14@gmail.com :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=8b1b1dbfaf5d30ec92b1f2da6079a713

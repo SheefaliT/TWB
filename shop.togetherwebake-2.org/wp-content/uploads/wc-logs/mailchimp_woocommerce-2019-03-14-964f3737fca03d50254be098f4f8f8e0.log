@@ -1,0 +1,3 @@
+2019-03-14T01:40:33+00:00 NOTICE abandoned_cart.success :: email: tgmorris98@sc.rr.col :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=589f4916951614180bf8770cc077231e
+2019-03-14T01:41:56+00:00 NOTICE ac.cart_swap :: Deleted cart [tgmorris98@sc.rr.col] :: ID [589f4916951614180bf8770cc077231e]
+2019-03-14T01:41:58+00:00 NOTICE abandoned_cart.success :: email: tgmorris98@sc.rr.com :: checkout_url: https://shop.togetherwebake.org/checkout/?mc_cart_id=469ffbf9f08ecd8e28a155f63f80f615
